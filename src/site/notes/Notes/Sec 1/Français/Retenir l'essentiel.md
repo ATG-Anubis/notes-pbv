@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Retenir l'essentiel/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Retenir l'essentiel/","created":"","updated":""}
 ---
 
 # Retenir l'essentiel
