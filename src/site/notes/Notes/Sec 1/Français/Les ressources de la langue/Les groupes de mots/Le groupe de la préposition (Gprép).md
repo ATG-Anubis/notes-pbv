@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/Le groupe de la préposition (Gprép)/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/Le groupe de la préposition (Gprép)/","created":"","updated":""}
 ---
 
 # Le groupe de la préposition (Gprép)
