@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 3/L'angle/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 3/L'angle/","created":"","updated":""}
 ---
 
 # L'angle
