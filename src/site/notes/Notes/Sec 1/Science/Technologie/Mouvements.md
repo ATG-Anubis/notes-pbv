@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Mouvements/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Mouvements/","created":"","updated":""}
 ---
 
 # Mouvements
