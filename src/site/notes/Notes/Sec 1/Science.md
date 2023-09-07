@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/","created":"","updated":""}
 ---
 
 # Science
