@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/La phrase de base et ses constituants/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/La phrase de base et ses constituants/","created":"","updated":""}
 ---
 
 # La phrase de base et ses constituants
