@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Transformer une fraction en pourcentage/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Transformer une fraction en pourcentage/","created":"","updated":""}
 ---
 
 # Transformer une fraction en pourcentage
