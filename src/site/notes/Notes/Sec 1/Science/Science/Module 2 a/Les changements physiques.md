@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les changements physiques/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les changements physiques/","created":"","updated":""}
 ---
 
 # Les changements physiques
