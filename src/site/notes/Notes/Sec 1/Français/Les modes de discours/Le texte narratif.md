@@ -4,37 +4,29 @@
 
 # Le texte narratif
 
-C’est quoi le schéma narratif ?
-- C’est le plan du récit
+>[!Question]- C’est quoi le schéma narratif ?
+>- C’est le plan du récit.
 
-C’est quoi l’univers narratif ?
-- C’est le monde, fictif ou réel, dans lequel évoluent les personnages
+>[!Question]- C’est quoi l’univers narratif ?
+>- C’est le monde, fictif ou réel, dans lequel évoluent les personnages.
 
-De quoi est constitué l’univers narratif ?
-- Les personnages
-- Les lieux
-- Le temps ou l’époque
-- L’atmosphère ou le ton du récit
+>[!Question]- De quoi est constitué l’univers narratif ?
+>- Les personnages
+>- Les lieux
+>- Le temps ou l’époque
+>- L’atmosphère ou le ton du récit
 
-C’est quoi le schéma actanciel ?
-- C’est une représentation des fonctions ou des rôles remplis par les acteurs (personnages, objets, valeurs, etc. qui influencent le déroulement des évènements) d’un récit.
+>[!Question]- C’est quoi le schéma actanciel ?
+>- C’est une représentation des fonctions ou des rôles remplis par les acteurs (personnages, objets, valeurs, etc. qui influencent le déroulement des évènements) d’un récit.
 
-- De quoi constitue le schéma actanciel ?
-    
-    Le sujet
-    
-    les péripéties
-    
-    l’objet
-    
-    Le destinateur
-    
-    le destinataire
-    
-    les opposants
-    
-    les adjuvants
-    
-    ex :
-    [[Schéma actanciel.canvas|Schéma actanciel]]
-    ![](https://i.imgur.com/lP9ooxe.png)
+>[!Question]- De quoi constitue le schéma actanciel ?
+>- Le sujet
+>- Les péripéties
+>- L’objet
+>- Le destinateur
+>- Le destinataire
+>- Les opposants
+>- Les adjuvants
+ex :
+[[Schéma actanciel.canvas|Schéma actanciel]]
+![](https://i.imgur.com/lP9ooxe.png)
