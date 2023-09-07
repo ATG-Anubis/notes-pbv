@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/Multiplication et division des nombres entiers/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/Multiplication et division des nombres entiers/","created":"","updated":""}
 ---
 
 # Multiplication et division des nombres entiers
