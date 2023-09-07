@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La conjugaison/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La conjugaison/","created":"","updated":""}
 ---
 
 # La conjugaison
