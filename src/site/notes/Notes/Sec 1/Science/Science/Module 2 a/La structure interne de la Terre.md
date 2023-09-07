@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/La structure interne de la Terre/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/La structure interne de la Terre/","created":"","updated":""}
 ---
 
 # La structure interne de la Terre
