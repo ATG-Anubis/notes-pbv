@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/Les types et les formes de phrases/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/Les types et les formes de phrases/","created":"","updated":""}
 ---
 
 # Les types et les formes de phrases
