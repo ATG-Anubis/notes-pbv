@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/How to write a text in English/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/How to write a text in English/","created":"","updated":""}
 ---
 
 # How to write a text in English
