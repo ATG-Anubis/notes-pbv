@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/","created":"","updated":""}
 ---
 
 # Français
