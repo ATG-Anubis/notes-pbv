@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 3/Les polygones/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 3/Les polygones/","created":"","updated":""}
 ---
 
 # Les polygones
