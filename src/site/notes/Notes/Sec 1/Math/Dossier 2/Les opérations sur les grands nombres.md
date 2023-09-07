@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/Les opérations sur les grands nombres/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/Les opérations sur les grands nombres/","created":"","updated":""}
 ---
 
 # Les opérations sur les grands nombres
