@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Parts of speech/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Parts of speech/","created":"","updated":""}
 ---
 
 # Parts of speech
