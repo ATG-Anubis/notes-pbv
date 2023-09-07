@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/Le groupe du verbe (GV)/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/Le groupe du verbe (GV)/","created":"","updated":""}
 ---
 
 # Le groupe du verbe (GV)
