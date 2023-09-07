@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Le système décimal/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Le système décimal/","created":"","updated":""}
 ---
 
 # Le système décimal
