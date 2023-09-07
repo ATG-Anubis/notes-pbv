@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/_Sph__res___/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/_Sph__res___/","created":"","updated":""}
 ---
 
 # "Sphères”
