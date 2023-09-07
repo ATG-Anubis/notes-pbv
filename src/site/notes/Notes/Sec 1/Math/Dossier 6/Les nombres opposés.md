@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/Les nombres opposés/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/Les nombres opposés/","created":"","updated":""}
 ---
 
 # Les nombres opposés
