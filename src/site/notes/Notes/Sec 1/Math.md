@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/","created":"","updated":""}
 ---
 
 # Math
