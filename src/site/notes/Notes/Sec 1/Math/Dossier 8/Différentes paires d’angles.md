@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 8/Différentes paires d’angles/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 8/Différentes paires d’angles/","created":"","updated":""}
 ---
 
 # Différentes paires d’angles
