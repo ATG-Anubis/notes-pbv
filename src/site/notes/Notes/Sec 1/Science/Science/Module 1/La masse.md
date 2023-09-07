@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 1/La masse/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 1/La masse/","created":"","updated":""}
 ---
 
 # La masse
