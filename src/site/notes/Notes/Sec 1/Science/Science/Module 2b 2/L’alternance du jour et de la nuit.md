@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 2/L’alternance du jour et de la nuit/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 2/L’alternance du jour et de la nuit/","created":"","updated":""}
 ---
 
 # L’alternance du jour et de la nuit
