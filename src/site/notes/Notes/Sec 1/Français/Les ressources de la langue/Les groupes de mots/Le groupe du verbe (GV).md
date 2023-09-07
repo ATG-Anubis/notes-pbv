@@ -4,9 +4,12 @@
 
 # Le groupe du verbe (GV)
 
-- C'est quoi le noyau du GV?
-    - Le verbe
-- Qu'est-ce qui peut accompagner le GV?
-    - Des expansions
-- Quelle est la manipulation syntaxique du GV?
-    - L'encadrement pas ne … pas pour trouver le verbe conjugué
+>[!Question]- C'est quoi le noyau du GV ?
+>- Le verbe
+
+>[!Question]- Qu'est-ce qui peut accompagner le GV ?
+>- Des expansions
+
+>[!Question]- Quelle est la manipulation syntaxique du GV ?
+>- L'encadrement pas ne… pas pour trouver le verbe conjugué
+
