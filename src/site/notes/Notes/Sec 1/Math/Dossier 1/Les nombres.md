@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Les nombres/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Les nombres/","created":"","updated":""}
 ---
 
 # Les nombres
