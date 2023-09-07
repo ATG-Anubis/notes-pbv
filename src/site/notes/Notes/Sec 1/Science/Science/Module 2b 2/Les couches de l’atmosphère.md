@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 2/Les couches de l’atmosphère/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 2/Les couches de l’atmosphère/","created":"","updated":""}
 ---
 
 # Les couches de l’atmosphère
