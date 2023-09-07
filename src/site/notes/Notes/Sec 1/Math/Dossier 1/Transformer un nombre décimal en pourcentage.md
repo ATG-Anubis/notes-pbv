@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Transformer un nombre décimal en pourcentage/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Transformer un nombre décimal en pourcentage/","created":"","updated":""}
 ---
 
 # Transformer un nombre décimal en pourcentage
