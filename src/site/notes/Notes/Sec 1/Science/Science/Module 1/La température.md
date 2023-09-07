@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 1/La température/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 1/La température/","created":"","updated":""}
 ---
 
 # La température
