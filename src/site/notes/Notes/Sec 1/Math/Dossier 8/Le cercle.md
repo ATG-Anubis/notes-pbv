@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 8/Le cercle/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 8/Le cercle/","created":"","updated":""}
 ---
 
 # Le cercle
