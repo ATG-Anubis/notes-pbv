@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/L’ addition et la soustraction des nombres entiers/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/L’ addition et la soustraction des nombres entiers/","created":"","updated":""}
 ---
 
 # L’ addition et la soustraction des nombres entiers
