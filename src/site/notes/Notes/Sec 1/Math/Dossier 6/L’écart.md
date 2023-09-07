@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/L’écart/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/L’écart/","created":"","updated":""}
 ---
 
 # L’écart
