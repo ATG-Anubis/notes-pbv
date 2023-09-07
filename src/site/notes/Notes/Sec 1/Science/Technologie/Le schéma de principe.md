@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Le schéma de principe/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Le schéma de principe/","created":"","updated":""}
 ---
 
 # Le schéma de principe
