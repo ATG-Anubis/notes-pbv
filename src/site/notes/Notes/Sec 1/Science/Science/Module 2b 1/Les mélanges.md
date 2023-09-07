@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 1/Les mélanges/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 1/Les mélanges/","created":"","updated":""}
 ---
 
 # Les mélanges
