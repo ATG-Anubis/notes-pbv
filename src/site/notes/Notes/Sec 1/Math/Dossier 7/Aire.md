@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Aire/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Aire/","created":"","updated":""}
 ---
 
 # Aire
