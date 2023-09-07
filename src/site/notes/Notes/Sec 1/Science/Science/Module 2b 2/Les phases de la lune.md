@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 2/Les phases de la lune/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 2/Les phases de la lune/","created":"","updated":""}
 ---
 
 # Les phases de la lune
