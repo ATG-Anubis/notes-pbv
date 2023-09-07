@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/transformation des unités au carré/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/transformation des unités au carré/","created":"","updated":""}
 ---
 
 # transformation des unités au carré
