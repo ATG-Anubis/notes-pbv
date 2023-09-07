@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Classification des triangles/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Classification des triangles/","created":"","updated":""}
 ---
 
 # Classification des triangles
