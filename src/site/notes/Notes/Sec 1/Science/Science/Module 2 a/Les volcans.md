@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les volcans/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les volcans/","created":"","updated":""}
 ---
 
 # Les volcans
