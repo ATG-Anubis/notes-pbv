@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Writing direct speech dialogue/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Writing direct speech dialogue/","created":"","updated":""}
 ---
 
 # Writing direct speech dialogue
