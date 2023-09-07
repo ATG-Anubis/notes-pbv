@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Critères de divisibilité/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Critères de divisibilité/","created":"","updated":""}
 ---
 
 # Critères de divisibilité
