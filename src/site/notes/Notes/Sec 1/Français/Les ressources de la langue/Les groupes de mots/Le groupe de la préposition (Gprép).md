@@ -4,14 +4,12 @@
 
 # Le groupe de la préposition (Gprép)
 
-- C’est quoi le noyau du GPrép?
-    
-    La préposition
-    
-- Est-ce qu’on peut effacer l’expansion dans le GPrép?
-    
-    Non elle est obligatoire
-    
-- Quelles sont les fonctions du GPrép?
-    
-    Complément de plein de choses et attribut du sujet
+>[!Question]- C’est quoi le noyau du GPrép?
+>- La préposition
+
+>[!Question]- Est-ce qu’on peut effacer l’expansion dans le GPrép?
+>- Non, elle est obligatoire.
+
+>[!Question]- Quelles sont les fonctions du GPrép?
+>- Complément de plein de choses et attribut du sujet.
+
