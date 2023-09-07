@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les tremblements de terre/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les tremblements de terre/","created":"","updated":""}
 ---
 
 # Les tremblements de terre
