@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Homepage/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 Bonjour !
@@ -7,10 +7,10 @@ Ceci est une place où vous pouvez trouver (presque) toutes les notes de cours d
 
 J'ai écrit toutes ces notes à la main et ce site web est un projet qui m'a pris plusieurs dizaines d'heures à créer donc j'espère que vous l'aimez :)
 ### Notes Sec 1
-[[Notes/Sec 1\|Sec 1]]
+**[[Notes/Sec 1\|Sec 1]]**
 
 ### Notes Sec 2
-[[Notes/Sec 2\|Sec 2]]
+**[[Notes/Sec 2\|Sec 2]]**
 
 ### Notes Sec 3
-[[Notes/Sec 3\|Sec 3]]
+**[[Notes/Sec 3\|Sec 3]]**
