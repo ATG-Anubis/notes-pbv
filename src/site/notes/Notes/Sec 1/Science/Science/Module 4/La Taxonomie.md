@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 4/La Taxonomie/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 4/La Taxonomie/","created":"","updated":""}
 ---
 
 # La Taxonomie
