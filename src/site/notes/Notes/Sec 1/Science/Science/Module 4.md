@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 4/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 4/","created":"","updated":""}
 ---
 
 # Module 4
