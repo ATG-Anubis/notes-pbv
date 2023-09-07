@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Les Fractions/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Les Fractions/","created":"","updated":""}
 ---
 
 # Les Fractions
