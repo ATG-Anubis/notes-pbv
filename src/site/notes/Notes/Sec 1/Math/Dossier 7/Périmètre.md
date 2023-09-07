@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Périmètre/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Périmètre/","created":"","updated":""}
 ---
 
 # Périmètre
