@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/","created":"","updated":""}
 ---
 
 # Technologie
