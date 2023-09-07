@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 1/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 1/","created":"","updated":""}
 ---
 
 # Module 2b 1
