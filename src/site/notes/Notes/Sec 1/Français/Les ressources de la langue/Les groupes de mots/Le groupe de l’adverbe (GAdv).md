@@ -4,7 +4,9 @@
 
 # Le groupe de l’adverbe (GAdv)
 
-- C'est quoi le noyau du groupe adverbial?
-    - L'adverbe
-- Qu'est ce qui peut accompagner le GAdv?
-    - Des expansions
+>[!Question]- C'est quoi le noyau du groupe adverbial ?
+>- L'adverbe
+
+>[!Question]- Qu'est-ce qui peut accompagner le GAdv ?
+>- Des expansions
+
