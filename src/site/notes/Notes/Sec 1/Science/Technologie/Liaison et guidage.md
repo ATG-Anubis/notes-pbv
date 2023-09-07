@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Liaison et guidage/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Liaison et guidage/","created":"","updated":""}
 ---
 
 # Liaison et guidage
