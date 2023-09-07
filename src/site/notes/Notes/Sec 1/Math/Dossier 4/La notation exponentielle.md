@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 4/La notation exponentielle/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 4/La notation exponentielle/","created":"","updated":""}
 ---
 
 # La notation exponentielle
