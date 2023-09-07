@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/","created":"","updated":""}
 ---
 
 # Les groupes de mots
