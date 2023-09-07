@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Le schéma de construction/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Le schéma de construction/","created":"","updated":""}
 ---
 
 # Le schéma de construction
