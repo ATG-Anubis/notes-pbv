@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/","created":"","updated":""}
 ---
 
 # Dossier 6
