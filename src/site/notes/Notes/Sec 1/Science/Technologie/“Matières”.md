@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/“Matières”/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/“Matières”/","created":"","updated":""}
 ---
 
 # “Matières”
