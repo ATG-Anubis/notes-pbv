@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Le cahier de charges/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/Le cahier de charges/","created":"","updated":""}
 ---
 
 # Le cahier de charges
