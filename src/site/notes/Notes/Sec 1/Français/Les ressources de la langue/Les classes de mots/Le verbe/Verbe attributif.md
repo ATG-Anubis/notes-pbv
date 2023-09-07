@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les classes de mots/Le verbe/Verbe attributif/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les classes de mots/Le verbe/Verbe attributif/","created":"","updated":""}
 ---
 
 
