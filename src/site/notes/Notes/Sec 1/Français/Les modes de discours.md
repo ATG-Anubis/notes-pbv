@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les modes de discours/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les modes de discours/","created":"","updated":""}
 ---
 
 # Les modes de discours
