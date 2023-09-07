@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/La résolution de problèmes/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/La résolution de problèmes/","created":"","updated":""}
 ---
 
 # La résolution de problèmes
