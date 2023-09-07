@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 1/L'acidité et la Basicité/"}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 1/L'acidité et la Basicité/","created":"","updated":""}
 ---
 
 # L'acidité et la Basicité
