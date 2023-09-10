@@ -20,8 +20,11 @@
 >- C'est un verbe toujours précédé par "il" qui ne signifies rien de spécifique
 >- Ex: il faut, il pleut, il fait froid, il y a
 
->[!Question]- C'est quoi la manipulation syntaxique pour le verbe?
->- Le remplacement
+>[!Question]- Quelles sont les manipulations syntaxiques pour le verbe ?
+>- Le remplacement (ex : « Je *marche* dans la rue. » → « Je *cours* dans la rue. »)
+>- L'encadrement par ne... pas (ex : « Je *marche* dans la rue. » → « Je **ne** *marche* **pas** dans la rue. »)
+>- IMPORTANT : Si le verbe est à l'infinitif, le ne... pas doit être placé avant le verbe (ex : « Je **ne** peux **pas** *résoudre* ce problème. »)
+>- L'ajout d'un adverbe (ex : « Je marche dans la rue. » → « Je *marche* **lentement** dans la rue. »)
 
 >[!Question]- C'est quoi la locution verbale?
 >- C'est une expression avec un verbe et un autre mot
