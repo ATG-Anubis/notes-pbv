@@ -13,5 +13,3 @@
 [[Notes/Sec 2/STIM Sec 2\|STIM Sec 2]]
 
 [[Notes/Sec 2/USO Sec 2/USO\|USO]]
-
-[[Notes/Sec 2/Musique Sec 2 X\|Musique Sec 2 X]]
