@@ -12,7 +12,7 @@
 
 [[Notes/Sec 1/Science/Science/Module 2 a/Les tremblements de terre\|Les tremblements de terre]]
 
-[["Sphères”\|"Sphères”]]
+[[Notes/Sec 1/Science/Science/Module 2 a/Sphères\|Sphères]]
 
 [[Notes/Sec 1/Science/Science/Module 2 a/L'orogenèse\|L'orogenèse]]
 
