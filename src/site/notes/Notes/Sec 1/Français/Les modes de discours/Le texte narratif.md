@@ -27,6 +27,5 @@
 >- Le destinataire
 >- Les opposants
 >- Les adjuvants
-ex :
-[[Schéma actanciel.canvas|Schéma actanciel]]
-![](https://i.imgur.com/lP9ooxe.png)
+ex : cliquez sur l'image pour voir le texte
+![[Schéma actanciel.canvas|Schéma actanciel]]
