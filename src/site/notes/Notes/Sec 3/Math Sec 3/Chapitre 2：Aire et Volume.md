@@ -3,8 +3,6 @@
 ---
 
 
-[[Notes/Sec 3/Math Sec 3/Chapitre 2：Aire et Volume/Réactivation (secondaire 2)\|Réactivation (secondaire 2)]]
-
 [[Notes/Sec 3/Math Sec 3/Chapitre 2：Aire et Volume/Section 2.1：Aire des solides\|Section 2.1：Aire des solides]]
 
 [[Notes/Sec 3/Math Sec 3/Chapitre 2：Aire et Volume/Section 2.2：Notion de volume et d'unités de mesure de volume\|Section 2.2：Notion de volume et d'unités de mesure de volume]]
