@@ -4,9 +4,10 @@
 
 # Le système décimal
 
-- C'est quoi la position dans un nombre décimal
-    - C'est la place occupée par le chiffre dans un nombre
-    - Ex: La position du chiffre 8 dans 187 c'est la position des dizaines
-- C'est quoi la valeur de position/la valeur?
-    - C'est combien le chiffre vaut
-    - Ex: La valeur du chiffre 8 dans 187 c'est 80
+>[!Question]- C'est quoi la position dans un nombre décimal
+>- C'est la place occupée par le chiffre dans un nombre
+>- Ex: La position du chiffre 8 dans 187 c'est la position des dizaines
+
+>[!Question]- C'est quoi la valeur de position/la valeur?
+>- C'est combien le chiffre vaut
+>- Ex: La valeur du chiffre 8 dans 187 c'est 80
