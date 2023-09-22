@@ -4,7 +4,7 @@
 
 # Transformer un nombre décimal en une fraction
 
-- Comment on fait pour transformer un nombre décimal en une fraction?
-    1. On lit le nombre (en utilisant les mots du système décimale)
-    2. On écrit la fraction correspondante
-    3. On réduit la fraction
+>[!Question]- Comment on fait pour transformer un nombre décimal en une fraction ?
+>1. On lit le nombre (en utilisant les mots du système décimal)
+>2. On écrit la fraction correspondante
+>3. On réduit la fraction.
