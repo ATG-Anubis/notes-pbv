@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les classes de mots/","created":"","updated":""}
 ---
 
+
 # Les classes de mots
 
 [[Notes/Sec 1/Français/Les ressources de la langue/Les classes de mots/Le nom\|Le nom]]
