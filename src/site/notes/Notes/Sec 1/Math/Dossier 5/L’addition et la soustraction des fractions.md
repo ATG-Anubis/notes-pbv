@@ -4,12 +4,10 @@
 
 # L’addition et la soustraction des fractions
 
-- Comment on fait pour additionner ou soustraire deux fractions dont le dénominateur est pareil?
-    
-    On additionne/soustrait les numérateurs
-    
-- Comment on fait pour additionner ou soustraire deux fractions dont le dénominateur n’est pas pareil?
-    
-    On mets les deux fractions sur le même dénominateur
-    
-    On additionne/soustrait les numérateurs
+>[!Question]- Comment on fait pour additionner ou soustraire deux fractions dont le dénominateur est pareil ?
+>- On additionne/soustrait les numérateurs
+
+>[!Question]- Comment on fait pour additionner ou soustraire deux fractions dont le dénominateur n’est pas identique ?
+>- On met les deux fractions sur le même dénominateur
+>- On additionne/soustrait les numérateurs
+
