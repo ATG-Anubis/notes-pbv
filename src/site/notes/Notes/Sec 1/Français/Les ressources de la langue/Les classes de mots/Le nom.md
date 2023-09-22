@@ -19,40 +19,36 @@
 
 >[!Question]- Est-ce que le nom peut varier?
 >
->Oui, Il peut varier en nombre (singulier ou pluriel) et parfois en genre (masculin, féminin), selon la réalité qui'l désigne.
+>- Oui, Il peut varier en nombre (singulier ou pluriel) et parfois en genre (masculin, féminin), selon la réalité qui'l désigne.
 >
-Ex. : le buisson / les buisson**s**         une écurie / des écurie**s**         un voisin / une voisin**e**
+>>[!Example] Ex. : le buisson / les buisson**s**         une écurie / des écurie**s**         un voisin / une voisin**e**
 >
->>>m. s.                 m. pl.                    f. s.             f. pl.                   m. s.             f. s.
+>>>m. s.                      m. pl.                    f. s.             f. pl.                   m. s.             f. s.
 >
 >>[!Question]- À qui le nom donne-t-il son genre et son nombre?
 >>Le nom donne son genre et son nombre au déterminant et à l'adjectif qui l'accompagnent. 
 >
 >>[!Question]- Comment appelle-t-on un  mot qui donne son genre et son nombre à d'autre mots?
 >>Un **donneur** d'accord
->
-Ex. : un**e** petit**e** **municipalité**
+>>>[!Example] Ex. : un**e** petit**e** **municipalité**
 
->[!Question]- Quelles sont les trois types de noms?
+>[!Question]- Quelles sont les trois types de noms ?
 >
->Le nom simple, le nom composé et le nom dérivé:
+>- Le nom simple, le nom composé et le nom dérivé :
 >
->Le nom **simple** est formée d'un seul mot.
+>- Le nom **simple** est formé d'un seul mot.
 >
-Ex. : route, Christophe, circulation
+>>[!Example] Ex. : route, Christophe, circulation
 >
-Le nom composé est formé de plusieurs mots.
+>- Le nom composé est formé de plusieurs mots.
 >
-Ex. : chemin de fer, station-service, Rouyn-Noranda
+>>[!Example] Ex. : chemin de fer, station-service, Rouyn-Noranda
 >
-Le nom **dérivé** est formé par l'ajout d'un préfixe ou d'un suffixe.
+>- Le nom **dérivé** est formé par l'ajout d'un préfixe ou d'un suffixe.
 >
->Ex. : vill**age**, local**ité**, Canad**ien**
+>>[!Example] Ex. : vill**age**, local**ité**, Canad**ien**
 
->[!Question]- Comment vérifier si un nom est un nom?
+>[!Question]- Comment vérifier si un nom est un nom ?
 >- Par la manipulation syntaxique
->- Quelles sont les formes de manipulation syntaxique
->- Remplacement: remplacer le mot par un mot dont on connaît la classe
->- Ajout:
-
->[!Question]- Comment fait-on pour repérer un nom dan
+>>[!Question]- Quelles sont les formes de manipulation syntaxiques pour le nom ?
+>>Remplacement : remplacer le mot par un mot dont on connaît la classe
