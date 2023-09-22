@@ -5,7 +5,7 @@
 # Les polygones
 
 >[!question]- C'est quoi un polygone?
->C'est une figure plane formée par une ligne brisée et fermée
+>C'est une figure plane formée par une ligne brisée et fermée.
 
 >[!question]- C'est quoi un polygone convexe?
 >C'est quand aucun sommet rentre dans la forme
