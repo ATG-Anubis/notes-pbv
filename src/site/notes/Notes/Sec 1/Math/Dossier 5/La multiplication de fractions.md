@@ -4,7 +4,8 @@
 
 # La multiplication de fractions
 
-- Comment on fait pour multiplier des fractions?
-    - on multiplies les numérateurs
-    - on multiplies les dénominateurs
-    - on simplifie la fraction
+>[!Question]- Comment on fait pour multiplier des fractions ?
+>- On multiplies les numérateurs.
+>- On multiplies les dénominateurs.
+>- On simplifie la fraction.
+
