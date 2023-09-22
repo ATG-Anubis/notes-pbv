@@ -4,6 +4,5 @@
 
 # La moyenne arithmétique
 
-- C’est quoi la moyenne arithmétique?
-    
-    C’est la valeur qui pourrait remplacer chaque donnée pour conserver la même somme
+>[!Question]- C’est quoi la moyenne arithmétique ?
+>- C’est la valeur qui pourrait remplacer chaque donnée pour conserver la même somme.
