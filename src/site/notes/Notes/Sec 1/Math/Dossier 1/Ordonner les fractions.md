@@ -4,9 +4,11 @@
 
 # Ordonner les fractions
 
-- Comment on fait pour ordonner des fractions?
-    - On les met sur le même dénominateur. Idéalement le PPCM (plus petit commun diviseur)
-- Comment on fait pour trouver un dénominateur commun?
-    - On dresse la liste des multiples des deux nombres
-    - On fait un arbre de facteurs
-    - On divise le dénominateur par le dénominateur (on ne trouves pas toujours le **plus petit** dénominateur commun)
+>[!Question]- Comment on fait pour ordonner des fractions ?
+>- On les met sur le même dénominateur. Idéalement le PPCM (plus petit commun diviseur)
+
+>[!Question]- Comment on fait pour trouver un dénominateur commun ?
+>- On dresse la liste des multiples des deux nombres
+>- On fait un arbre de facteurs
+>- On divise le dénominateur par le dénominateur (On ne trouve pas toujours le **plus petit** dénominateur commun.)
+
