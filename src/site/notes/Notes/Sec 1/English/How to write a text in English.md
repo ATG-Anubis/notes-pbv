@@ -15,21 +15,25 @@
 >- The body
 >- The conclusion
 
-What are the three parts of a body paragraph?
-    - The topic sentence (Which states the main idea of the paragraph)
-    - The body sentences (Which gives the details)
-    - The concluding sentence (Which sums up the main idea of the paragraph)
+>[!Question]- What are the three parts of a body paragraph?
+>- The topic sentence (Which states the main idea of the paragraph)
+>- The body sentences (Which gives the details)
+>- The concluding sentence (Which sums up the main idea of the paragraph)
 
 ## Introductions and conclusions
 
-- What purpose does an introduction serve?
-    - It clarifies what the essay is about
-    - It grabs the reader's interest
-- How do you grab the reader's interest?
-    - By using a hook
-- What are the different types of hooks?
-    - The rhetorical question (ex: What do you think of when you hear about the words "health food?")
-    - Presenting a surprising fact / The 'showing –not telling' (ex: The sugar-coated purple cereal is disappearing as you slurp it down with chocolate milk)
-    - Presenting a problem
-- What is the envelope strategy?
-    - It is when you open and close your essay the same way
+>[!Question]- What purpose does an introduction serve?
+>- It clarifies what the essay is about
+>- It grabs the reader's interest
+
+>[!Question]- How do you grab the reader's interest?
+>- By using a hook
+
+>[!Question]- What are the different types of hooks?
+>- The rhetorical question (ex: What do you think of when you hear about the words "health food?")
+>- Presenting a surprising fact / The 'showing –not telling' (ex: The sugar-coated purple cereal is disappearing as you slurp it down with chocolate milk)
+>- Presenting a problem
+
+>[!Question]- What is the envelope strategy?
+>- It is when you open and close your essay the same way
+
