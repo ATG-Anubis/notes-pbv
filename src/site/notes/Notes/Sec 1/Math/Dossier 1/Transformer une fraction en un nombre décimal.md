@@ -4,8 +4,10 @@
 
 # Transformer une fraction en un nombre décimal
 
-- Comment on fait pour transformer une fraction en un nombre décimal?
-    - Transformer en une fraction équivalente dont le dénominateur est une puissance de 100 (10, 100, 1000, ...)
-    - On divise le numérateur par le dénominateur
-- Qu'est ce qu'on fait si le nombre obtenu possède trop de décimales?
-    - On l'arrondit le nombre
+>[!Question]- Comment on fait pour transformer une fraction en un nombre décimal?
+>- Transformer en une fraction équivalente dont le dénominateur est une puissance de 100 (10, 100, 1000, ...)
+>- On divise le numérateur par le dénominateur
+
+>[!Question]- Qu'est ce qu'on fait si le nombre obtenu possède trop de décimales?
+>- On l'arrondit le nombre
+
