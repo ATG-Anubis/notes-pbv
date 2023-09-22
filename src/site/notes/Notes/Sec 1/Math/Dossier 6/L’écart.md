@@ -4,6 +4,6 @@
 
 # L’écart
 
-- C’est quoi l’écart?
-    
-    C’est la donnée la plus grande moins la donnée la plus petite
+>[!Question]- C’est quoi l’écart ?
+>- C’est la donnée la plus grande moins la donnée la plus petite.
+
