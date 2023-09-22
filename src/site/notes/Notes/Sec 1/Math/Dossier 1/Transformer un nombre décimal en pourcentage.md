@@ -4,5 +4,6 @@
 
 # Transformer un nombre décimal en pourcentage
 
-- Comment on fait pour transformer un nombre décimal en pourcentage?
-    - multiplier le nombre par 100 en déplaçant la virgule 2 fois vers la droite
+>[!Question]- Comment on fait pour transformer un nombre décimal en pourcentage?
+>- Multiplier le nombre par 100 en déplaçant la virgule 2 fois vers la droite.
+
