@@ -4,7 +4,8 @@
 
 # Transformer un pourcentage en fraction
 
-- C’est quoi la démarche pour transformer un pourcentage en fraction?
-    - Lire le pourcentage
-    - écrire sous la forme d’une fraction où le dénominateur sera 100
-    - réduire la fraction
+>[!Question]- Quelle est la démarche pour transformer un pourcentage en fraction ?
+>- Lire le pourcentage.
+>- Écrire sous la forme d’une fraction dans laquelle le dénominateur sera 100.
+>- Réduire la fraction.
+
