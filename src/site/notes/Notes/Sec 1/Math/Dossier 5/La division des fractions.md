@@ -4,6 +4,6 @@
 
 # La division des fractions
 
-- Comment on fait pour diviser des fractions?
-    - on inverse le diviseur
-    - on fait une multiplication
+>[!Question]- Comment on fait pour diviser des fractions?
+>- On inverse le diviseur
+>- On fait une multiplication
