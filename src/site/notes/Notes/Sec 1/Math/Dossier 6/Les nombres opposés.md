@@ -4,6 +4,6 @@
 
 # Les nombres opposés
 
-- C’est quoi un nombre opposé?
-    
-    C’est le contraire d’un nombre (ex: l’opposé de 3 est -3)
+>[!Question]- C’est quoi un nombre opposé ?
+>- C’est le contraire d’un nombre (ex : l’opposé de 3 est -3).
+
