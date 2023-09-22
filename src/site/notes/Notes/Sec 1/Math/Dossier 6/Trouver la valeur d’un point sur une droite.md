@@ -4,7 +4,8 @@
 
 # Trouver la valeur d’un point sur une droite
 
-- Comment on fait pour trouver la valeur d’un point sur une droite?
-    1. Trouver l’écart entre 2 nombres
-    2. Compter le nombre de bonds entre les deux nombres
-    3. Trouver la valeur d’un bond: Écart divisé par Nombre d’espaces
+>[!Question]- Comment on fait pour trouver la valeur d’un point sur une droite ?
+>1. Trouver l’écart entre deux nombres.
+>2. Compter le nombre de bonds entre les deux nombres.
+>3. Trouver la valeur d’un bond : Écart divisé par Nombre d’espaces.
+
