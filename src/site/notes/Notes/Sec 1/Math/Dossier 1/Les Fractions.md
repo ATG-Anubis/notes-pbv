@@ -4,13 +4,20 @@
 
 # Les Fractions
 
-- Quel type de nombre est utilisé dans les fractions?
-    - Les nombres entiers
-- Quel type de nombre est une fraction?
-    - Les nombres rationnels
-- Dans une fraction, comment s'appelle le nombre en haut?
-    - Le numérateur
-- Dans une fraction, comment s'appelle le nombre en bas?
-    - Le dénominateur
-- Comment vérifier si j'ai le ppcm de trois nombres?
-    - Faire la liste des multiples des trois nombres
+>[!Question]- Quel type de nombre est utilisé dans les fractions ?
+>- Les nombres entiers
+
+>[!Question]- Quel type de nombre est une fraction ?
+>- Les nombres rationnels
+
+>[!Question]- Dans une fraction, comment s'appelle le nombre en haut ?
+>- Le numérateur
+
+>[!Question]- Dans une fraction, comment s'appelle le nombre en bas ?
+>- Le dénominateur
+
+>[!Error]- C'est quoi le PPCM ?
+>- C'est le plus petit commun diviseur.
+
+>[!Question]- Comment vérifier si j'ai le PPCM de trois nombres ?
+>- Faire la liste des multiples des trois nombres
