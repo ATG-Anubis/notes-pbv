@@ -16,7 +16,7 @@
     
     Symbole : r
 
-- C’est quoi la corde?
+- C’est quoi la corde ?
     
     C’est un segment qui rejoint deux points d’un cercle
 
@@ -34,7 +34,7 @@
 - Angle formé par deux rayons du cercle
 
 C’est quoi le disque ?
-- région intérieur du cercle
+- Région intérieure du cercle
 
 C’est quoi le secteur circulaire ?
 - Partie d’un disque comprise entre deux rayons
