@@ -11,19 +11,20 @@
 >$A$
 
 >[!question]- Quelle est la formule pour le carré?
-> $$A = c*c$$
+> $$A = c^2$$
 
 >[!question]- Quelle est la formule pour le rectangle?
->A = b*h
+>$$A = b \times h$$
 
 >[!question]- Quelle est la formule pour le parallélogramme?
->A = $b*h$
+>A = $b \times h$
 
 >[!question]- Quelle est la formule pour le triangle?
->$A = b*h/2$
+>$$A = \frac {b \times h} {2}$$
 
 >[!question]- Quelle est la formule pour le losange?
->$$A = \frac {D*d} {2}$$
+>$$A = \frac {D \times d} {2}$$
 
 >[!question]- Quelle est la formule pour le trapèze?
->A = (B+b)*h/2
+>$$A = \frac {(B + b) \times h } {2}$$
+
