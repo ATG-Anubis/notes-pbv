@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Prepositions and prepositional phrases/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Prepositions and prepositional phrases/"}
 ---
 
 # Prepositions and prepositional phrases
