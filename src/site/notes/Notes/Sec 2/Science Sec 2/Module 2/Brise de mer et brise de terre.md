@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 2/Brise de mer et brise de terre/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 2/Brise de mer et brise de terre/"}
 ---
 
 
