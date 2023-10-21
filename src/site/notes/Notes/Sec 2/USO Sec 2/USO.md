@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/USO Sec 2/USO/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/USO Sec 2/USO/"}
 ---
 
 # USO X
