@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/La statistique Vocabulaire/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/La statistique Vocabulaire/"}
 ---
 
 # La statistique: Vocabulaire
