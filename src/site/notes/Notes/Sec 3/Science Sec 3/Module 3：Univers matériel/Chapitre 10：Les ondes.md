@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 3：Univers matériel/Chapitre 10：Les ondes/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 3：Univers matériel/Chapitre 10：Les ondes/"}
 ---
 
 
