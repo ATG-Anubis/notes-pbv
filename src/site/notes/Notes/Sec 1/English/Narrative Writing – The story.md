@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Narrative Writing – The story/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Narrative Writing – The story/"}
 ---
 
 # Narrative Writing – The story
