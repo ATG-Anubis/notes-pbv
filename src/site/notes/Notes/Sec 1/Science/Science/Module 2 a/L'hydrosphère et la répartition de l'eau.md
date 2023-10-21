@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/L'hydrosphère et la répartition de l'eau/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/L'hydrosphère et la répartition de l'eau/"}
 ---
 
 # L'hydrosphère et la répartition de l'eau
