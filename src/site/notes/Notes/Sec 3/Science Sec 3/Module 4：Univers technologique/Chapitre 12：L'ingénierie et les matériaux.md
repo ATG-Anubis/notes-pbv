@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 4：Univers technologique/Chapitre 12：L'ingénierie et les matériaux/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 4：Univers technologique/Chapitre 12：L'ingénierie et les matériaux/"}
 ---
 
 
