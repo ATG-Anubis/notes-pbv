@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Comment répondre à une question de compréhension/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Comment répondre à une question de compréhension/"}
 ---
 
 # Comment répondre à une question de compréhension
