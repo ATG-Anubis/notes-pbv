@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Histoire Sec 3/Module 1b：L'expérience des autochtones et le projet de colonie. Les premiers contacts/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Histoire Sec 3/Module 1b：L'expérience des autochtones et le projet de colonie. Les premiers contacts/"}
 ---
 
 
