@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Les droites remarquables dans les triangles/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Les droites remarquables dans les triangles/"}
 ---
 
 # Les droites remarquables dans les triangles
