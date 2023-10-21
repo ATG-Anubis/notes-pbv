@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Arrondir un nombre/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Arrondir un nombre/"}
 ---
 
 # Arrondir un nombre
