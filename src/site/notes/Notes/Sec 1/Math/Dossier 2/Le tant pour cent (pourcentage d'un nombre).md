@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/Le tant pour cent (pourcentage d'un nombre)/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/Le tant pour cent (pourcentage d'un nombre)/"}
 ---
 
 # Le tant pour cent (pourcentage d'un nombre)
