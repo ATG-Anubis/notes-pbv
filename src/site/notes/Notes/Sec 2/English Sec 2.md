@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/English Sec 2/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/English Sec 2/"}
 ---
 
 # English
