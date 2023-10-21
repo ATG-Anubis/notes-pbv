@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 6.2/L’air et le périmètre des polygones réguliers/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 6.2/L’air et le périmètre des polygones réguliers/"}
 ---
 
 
