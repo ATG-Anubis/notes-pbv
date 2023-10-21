@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Changing Paragraphs/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Changing Paragraphs/"}
 ---
 
 # Changing Paragraphs
