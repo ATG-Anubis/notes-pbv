@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 3：Univers matériel/Chapitre 8：Les transformations de la matière et le l'énergie/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 3：Univers matériel/Chapitre 8：Les transformations de la matière et le l'énergie/"}
 ---
 
 
