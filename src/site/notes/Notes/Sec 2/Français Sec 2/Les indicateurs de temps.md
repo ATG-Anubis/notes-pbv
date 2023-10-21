@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Les indicateurs de temps/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Les indicateurs de temps/"}
 ---
 
 # Les indicateurs de temps
