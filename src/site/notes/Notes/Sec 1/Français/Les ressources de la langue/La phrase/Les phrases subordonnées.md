@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/Les phrases subordonnées/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/Les phrases subordonnées/"}
 ---
 
 # Les phrases subordonnées
