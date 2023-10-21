@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/Le groupe de l’adverbe (GAdv)/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les groupes de mots/Le groupe de l’adverbe (GAdv)/"}
 ---
 
 # Le groupe de l’adverbe (GAdv)
