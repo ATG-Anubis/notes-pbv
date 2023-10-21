@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 2/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 2/"}
 ---
 
 [[Notes/Sec 2/Science Sec 2/Module 2/Les manifestations naturelles de l'énergie\|Les manifestations naturelles de l'énergie]]
