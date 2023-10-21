@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Temps de verbes/Erreurs fréquentes/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Temps de verbes/Erreurs fréquentes/"}
 ---
 
 # Erreurs fréquentes
