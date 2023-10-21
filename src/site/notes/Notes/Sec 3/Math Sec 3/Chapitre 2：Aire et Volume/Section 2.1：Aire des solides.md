@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Math Sec 3/Chapitre 2：Aire et Volume/Section 2.1：Aire des solides/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Math Sec 3/Chapitre 2：Aire et Volume/Section 2.1：Aire des solides/"}
 ---
 
 
