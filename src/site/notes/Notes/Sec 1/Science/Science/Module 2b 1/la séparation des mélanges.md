@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 1/la séparation des mélanges/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2b 1/la séparation des mélanges/"}
 ---
 
 # la séparation des mélanges
