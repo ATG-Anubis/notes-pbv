@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 5.1/Écrire un nombre en pourcentage/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 5.1/Écrire un nombre en pourcentage/"}
 ---
 
 # Écrire un nombre en pourcentage
