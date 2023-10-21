@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les fonctions syntaxiques/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/Les fonctions syntaxiques/"}
 ---
 
 # Les fonctions syntaxiques
