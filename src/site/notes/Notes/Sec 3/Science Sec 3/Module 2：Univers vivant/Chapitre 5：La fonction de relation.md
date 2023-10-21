@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 2：Univers vivant/Chapitre 5：La fonction de relation/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 2：Univers vivant/Chapitre 5：La fonction de relation/"}
 ---
 
 
