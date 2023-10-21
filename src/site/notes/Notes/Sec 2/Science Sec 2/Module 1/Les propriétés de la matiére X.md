@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 1/Les propriétés de la matiére X/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 1/Les propriétés de la matiére X/"}
 ---
 
 # Les propriétés de la matiére X
