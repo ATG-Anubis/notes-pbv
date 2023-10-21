@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Critical Thinking/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Critical Thinking/"}
 ---
 
 # Critical Thinking
