@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 6.3/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 6.3/"}
 ---
 
 [[Notes/Sec 2/Math Sec 2/Chapitre 6.3/L'aire d'un cylindre\|L'aire d'un cylindre]]
