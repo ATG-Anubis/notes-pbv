@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Nouns/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/English/Nouns/"}
 ---
 
 
