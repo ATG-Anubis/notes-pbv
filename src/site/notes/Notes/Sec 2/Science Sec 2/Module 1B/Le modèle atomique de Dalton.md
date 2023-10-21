@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 1B/Le modèle atomique de Dalton/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 1B/Le modèle atomique de Dalton/"}
 ---
 
 # Le modèle atomique de Dalton
