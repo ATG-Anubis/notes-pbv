@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 5.1/La proportion/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 5.1/La proportion/"}
 ---
 
 # La proportion
