@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Le récit policier/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Le récit policier/"}
 ---
 
 # Le récit policier
