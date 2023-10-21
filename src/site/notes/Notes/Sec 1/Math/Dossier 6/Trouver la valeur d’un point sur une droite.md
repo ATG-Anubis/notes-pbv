@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/Trouver la valeur d’un point sur une droite/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 6/Trouver la valeur d’un point sur une droite/"}
 ---
 
 # Trouver la valeur d’un point sur une droite
