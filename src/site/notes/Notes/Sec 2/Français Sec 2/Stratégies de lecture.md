@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Stratégies de lecture/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Français Sec 2/Stratégies de lecture/"}
 ---
 
 # Stratégies de lecture
