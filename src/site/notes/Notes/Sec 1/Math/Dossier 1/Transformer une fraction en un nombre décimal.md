@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Transformer une fraction en un nombre décimal/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 1/Transformer une fraction en un nombre décimal/"}
 ---
 
 # Transformer une fraction en un nombre décimal
