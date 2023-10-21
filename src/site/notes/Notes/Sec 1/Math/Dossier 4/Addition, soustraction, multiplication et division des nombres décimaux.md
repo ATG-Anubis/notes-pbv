@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 4/Addition, soustraction, multiplication et division des nombres décimaux/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 4/Addition, soustraction, multiplication et division des nombres décimaux/"}
 ---
 
 # Addition, soustraction, multiplication et division des nombres décimaux
