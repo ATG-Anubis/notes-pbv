@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 3/Les organes reproducteurs masculins/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 3/Les organes reproducteurs masculins/"}
 ---
 
 
