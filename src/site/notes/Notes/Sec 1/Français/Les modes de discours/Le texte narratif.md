@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les modes de discours/Le texte narratif/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les modes de discours/Le texte narratif/"}
 ---
 
 # Le texte narratif
