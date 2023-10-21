@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 5/L’addition et la soustraction des fractions/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 5/L’addition et la soustraction des fractions/"}
 ---
 
 # L’addition et la soustraction des fractions
