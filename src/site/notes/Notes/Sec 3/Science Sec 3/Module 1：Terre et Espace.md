@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 1：Terre et Espace/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 1：Terre et Espace/"}
 ---
 
 
