@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/"}
 ---
 
 [[Notes/Sec 2/Français Sec 2\|Français Sec 2]]
