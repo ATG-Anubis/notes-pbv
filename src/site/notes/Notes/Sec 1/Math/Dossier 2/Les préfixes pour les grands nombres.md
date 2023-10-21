@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/Les préfixes pour les grands nombres/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 2/Les préfixes pour les grands nombres/"}
 ---
 
 # Les préfixes pour les grands nombres
