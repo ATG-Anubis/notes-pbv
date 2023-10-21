@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Glossaire/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Glossaire/"}
 ---
 
 # Glossaire
