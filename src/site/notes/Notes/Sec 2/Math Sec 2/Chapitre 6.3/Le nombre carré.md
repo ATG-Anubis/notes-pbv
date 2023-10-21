@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 6.3/Le nombre carré/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 6.3/Le nombre carré/"}
 ---
 
 
