@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 2/Les ressources énergétiques renouvelables et non-renouvelables/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/Module 2/Les ressources énergétiques renouvelables et non-renouvelables/"}
 ---
 
 
