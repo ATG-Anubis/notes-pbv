@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/La coordination et la juxtaposition/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/La coordination et la juxtaposition/"}
 ---
 
 # La coordination et la juxtaposition
