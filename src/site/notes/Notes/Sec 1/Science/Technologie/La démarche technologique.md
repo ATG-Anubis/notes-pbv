@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/La démarche technologique/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Technologie/La démarche technologique/"}
 ---
 
 # La démarche technologique
