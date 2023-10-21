@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 2：Univers vivant/Chapitre 3：L'organisation du vivant et la fonction de reproduction/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 2：Univers vivant/Chapitre 3：L'organisation du vivant et la fonction de reproduction/"}
 ---
 
 
