@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les états de la matière/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Science/Science/Module 2 a/Les états de la matière/"}
 ---
 
 # Les états de la matière
