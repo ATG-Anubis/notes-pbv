@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Formules d'aire/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Math/Dossier 7/Formules d'aire/"}
 ---
 
 # Aire
