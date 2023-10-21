@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/Des phrases à construction particuliaires/La phrase à présentatif/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/Notes/Sec 1/Français/Les ressources de la langue/La phrase/Des phrases à construction particuliaires/La phrase à présentatif/"}
 ---
 
 
