@@ -35,18 +35,12 @@ Culture Religieuse 2 : https://quizlet.com/join/r5FMyCzW7?i=3vlaer&x=1rqt
 Je publierai les notes d'histoire/géo du secondaire 3 sur ce site web :)
 
 Si vous trouvez des notes qui ont X à la fin, ça veut dire qu'elles ne sont pas complètes. Je ne peux pas toujours les compléter par contre.
-### Notes Sec 1
+
 
 **[[Notes/Sec 1\|Sec 1]]**
 
-  
-
-### Notes Sec 2
 
 **[[Notes/Sec 2\|Sec 2]]**
 
-  
-
-### Notes Sec 3
 
 **[[Notes/Sec 3\|Sec 3]]**
