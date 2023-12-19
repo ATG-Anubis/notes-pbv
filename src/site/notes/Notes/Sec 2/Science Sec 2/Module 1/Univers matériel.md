@@ -75,7 +75,7 @@ Balance à fléau
 >>Nacelle de pesée
 
 >[!question]- Comment se nomme cet objet scientifique?
-![Untitled](/img/user/Notes/Sec 2/Science Sec 2/Module 1/Univers matériel/Untitled 8.png)
+![Untitled](Untitled%208.png)
 >>[!info]- Réponse
 >>Spatule
 >
