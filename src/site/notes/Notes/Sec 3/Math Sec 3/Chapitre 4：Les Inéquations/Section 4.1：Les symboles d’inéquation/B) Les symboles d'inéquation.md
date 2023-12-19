@@ -3,3 +3,22 @@
 ---
 
 
+>[!Question]- Qu'est-ce qu'une inégalité ?
+>C'est un énoncé mathématique qui permet la comparaison entre deux expressions numériques à l'aide d'un symbole d'inégalité.
+
+>[!Question]- Quel est le symbole d'inégalité pour "est inférieur à" ?
+>$$<$$
+
+>[!Question]- Quel est le symbole d'inégalité pour "est supérieur à" ?
+>$$>$$
+
+>[!Question]- Quel est le symbole d'inégalité pour "est inférieur ou égal à" ?
+>$$\le$$
+>OU
+>$$\leqslant$$
+
+>[!Question]- Quel est le symbole d'inégalité pour "est supérieur ou égal à" ?
+>$$\ge$$
+>OU
+>$$\geqslant$$
+
