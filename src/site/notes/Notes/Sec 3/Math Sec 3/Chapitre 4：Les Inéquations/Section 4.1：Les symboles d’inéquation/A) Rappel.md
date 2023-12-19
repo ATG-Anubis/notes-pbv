@@ -3,3 +3,4 @@
 ---
 
 
+Cette page dans les notes de cours n'avait pas d'informations pertinentes, donc tu peux passer cette page :)
