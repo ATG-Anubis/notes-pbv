@@ -3,7 +3,7 @@
 ---
 
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2b：L'évolution de la Nouvelle-France, colonie appartenant à la France/2.9：1689：Pourquoi une guerre déclenchée en Europe entre la France et l'Angleterre entraîne-t-elle une guerre entre les 13 colonies et la N-F？\|2.9：1689：Pourquoi une guerre déclenchée en Europe entre la France et l'Angleterre entraîne-t-elle une guerre entre les 13 colonies et la N-F？]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2b：L'évolution de la Nouvelle-France, colonie appartenant à la France/2.9：1689：Pourquoi une guerre en Europe entre la France et l'Angleterre entraîne-t-elle une guerre entre les 13 colonies et la N-F？\|2.9：1689：Pourquoi une guerre en Europe entre la France et l'Angleterre entraîne-t-elle une guerre entre les 13 colonies et la N-F？]]
 
 [[Notes/Sec 3/Histoire Sec 3/Module 2b：L'évolution de la Nouvelle-France, colonie appartenant à la France/2.10：Une 2e guerre en Europe. Une 2e guerre intercoloniale. Un match NUL entre les 2 colonies est-il encore possible？\|2.10：Une 2e guerre en Europe. Une 2e guerre intercoloniale. Un match NUL entre les 2 colonies est-il encore possible？]]
 
