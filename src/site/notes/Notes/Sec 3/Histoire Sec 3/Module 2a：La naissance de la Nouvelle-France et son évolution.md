@@ -3,18 +3,18 @@
 ---
 
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.1\|2.1]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.1 Champlain 1608-1617\|2.1 Champlain 1608-1617]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.2\|2.2]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.2 Champlain 1608-1635\|2.2 Champlain 1608-1635]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.3\|2.3]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.3 Ville-Marie et destruction de la Huronie\|2.3 Ville-Marie et destruction de la Huronie]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.4\|2.4]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.4 Destruction de la Huronie\|2.4 Destruction de la Huronie]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.5\|2.5]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.5 Gouvernement royal\|2.5 Gouvernement royal]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.6\|2.6]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.6 Talon et Filles du Roy\|2.6 Talon et Filles du Roy]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.7\|2.7]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.7 Talon économie\|2.7 Talon économie]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.8\|2.8]]
+[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.8 Évêque 1663+\|2.8 Évêque 1663+]]
