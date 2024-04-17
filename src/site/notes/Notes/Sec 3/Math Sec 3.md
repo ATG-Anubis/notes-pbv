@@ -10,3 +10,7 @@
 [[Notes/Sec 3/Math Sec 3/Chapitre 3：Notation scientifique, ensemble de nombres et lois des exposants\|Chapitre 3：Notation scientifique, ensemble de nombres et lois des exposants]]
 
 [[Notes/Sec 3/Math Sec 3/Chapitre 4：Les Inéquations\|Chapitre 4：Les Inéquations]]
+
+[[Notes/Sec 3/Math Sec 3/Chapitre 5：Les Fonctions\|Chapitre 5：Les Fonctions]]
+
+[[Notes/Sec 3/Math Sec 3/Chapitre 7：Les expressions algébriques équivalentes\|Chapitre 7：Les expressions algébriques équivalentes]]
