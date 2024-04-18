@@ -13,3 +13,13 @@
 >
 >Finalement, on arrive avec $(x^2+3x)+(2x+6)$ qui peut être simplifié à $x^2+5x+6$.
 
+>[!Question]- Comment fait-on pour résoudre l'exponentiation de deux binômes?
+>On sépare la formule en deux binômes (ex: $(x+2)^2$ devient $(x+2)(x+2)$)
+
+>[!Question]- Quelle est la manière rapide de résoudre l'exponentiation de deux binômes?
+>1. On élève les monômes par la puissance demandée. 
+>Ex: Pour $(x+2)^2$ on ferait $x^2$ et $2^2$ puisque la puissance demandée est 2.
+>2. On multiplie les monômes entre eux et on multiplie le produit par 2.
+>Ex: Pour $(x+2)^2$ on ferait $2(x*2)$
+>3. On additionne le tout et on simplifie la réponse.
+>Ex: Pour $(x+2)^2$ on ferait $x^2+2^2+2(x*2)$. La réponse simplifiée serait $x^2+4x+4$
