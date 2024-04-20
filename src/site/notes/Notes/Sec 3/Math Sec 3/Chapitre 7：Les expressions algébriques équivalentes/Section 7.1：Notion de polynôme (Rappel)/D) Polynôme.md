@@ -3,7 +3,7 @@
 ---
 
 
->[!Question]- Qu'est-ce qu'un polynôme?
+>[!Warning]- Qu'est-ce qu'un polynôme?
 >Des monômes liés par des additions et des soustractions.
 >Ex: $4ab-2x$
 
