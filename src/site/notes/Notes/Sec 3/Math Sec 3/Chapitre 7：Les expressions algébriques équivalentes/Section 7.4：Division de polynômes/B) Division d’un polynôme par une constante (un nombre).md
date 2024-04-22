@@ -5,5 +5,5 @@
 
 >[!Question]- Comment fait-on pour diviser un polynôme par une constante?
 >On divise chaque terme du polynôme par le nombre.
->Ex: $$(2x^2+4x-6){\div}2→\frac{2x^2+4x-6}{2}→\frac{2x^2}{2}+\frac{4x}{2}-\frac{6}{2}→x^2+2x-3$$
+>Ex: $(2x^2+4x-6){\div}2$**→**$\frac{2x^2+4x-6}{2}$**→**$\frac{2x^2}{2}+\frac{4x}{2}-\frac{6}{2}$**→**$x^2+2x-3$
 
