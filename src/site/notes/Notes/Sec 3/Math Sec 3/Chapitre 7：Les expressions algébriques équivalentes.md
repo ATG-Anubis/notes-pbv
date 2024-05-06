@@ -14,5 +14,3 @@
 [[Notes/Sec 3/Math Sec 3/Chapitre 7：Les expressions algébriques équivalentes/Section 7.5：Le degré d’un polynôme\|Section 7.5：Le degré d’un polynôme]]
 
 [[Notes/Sec 3/Math Sec 3/Chapitre 7：Les expressions algébriques équivalentes/Section 7.6：La mise en évidence simple\|Section 7.6：La mise en évidence simple]]
-
-[[Notes/Sec 3/Math Sec 3/Chapitre 7：Les expressions algébriques équivalentes/Section 7.7：Problèmes algébriques\|Section 7.7：Problèmes algébriques]]
