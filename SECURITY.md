@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Since there aren't any versions to this repo, anything found is supported.
+Since there aren't any used versions to this repo except for the most recent one, anything found is appreciated.
 
 ## Reporting a Vulnerability
 
