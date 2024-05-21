@@ -1,4 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Notes/Sec 3/Math Sec 3/Chapitre 8：Les statistiques/8.4：Les représentations graphiques/Rappels/"}
----
-
