@@ -1,0 +1,5 @@
+By using the Stylus Extension from the chrome web store (https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), you can change the appearance of the website.
+
+Here I will add code which you can paste into the extension to change the appearance of the website locally, without affecting the website for anyone else.
+
+T O   B E   C O N T I N U E D
