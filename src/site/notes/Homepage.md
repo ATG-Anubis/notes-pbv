@@ -5,7 +5,7 @@
 
 Bonjour !
 
-Ceci est une place où vous pouvez trouver (presque) toutes les notes de cours de la PBV du secondaire 1 au secondaire 3 !
+Ceci est une place où vous pouvez trouver (presque) toutes les notes de cours de la PBV du secondaire 1 au secondaire 4!
 
   
 
