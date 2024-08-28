@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 2/Science Sec 2/"}
 ---
 
-# Science
+
 
 [[Notes/Sec 2/Science Sec 2/Module 1\|Module 1]]
 

@@ -3,9 +3,6 @@
 ---
 
 
-### [[Notes/Sec 3/English Sec 3\|English Sec 3]]
-
-
 ### [[Notes/Sec 3/Français Sec 3\|Français Sec 3]]
 
 
@@ -13,9 +10,6 @@
 
 
 ### [[Notes/Sec 3/Math Sec 3\|Math Sec 3]]
-
-
-### [[Notes/Sec 3/Musique Sec 3\|Musique Sec 3]]
 
 
 ### [[Notes/Sec 3/Science Sec 3\|Science Sec 3]]
