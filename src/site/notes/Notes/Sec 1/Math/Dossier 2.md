@@ -6,9 +6,9 @@
 
 [[Notes/Sec 1/Math/Dossier 2/La résolution de problèmes\|La résolution de problèmes]]
 
-[[Notes/Sec 1/Math/Dossier 2/Le Taux\|Notes/Sec 1/Math/Dossier 2/Le Taux]]
+[[Notes/Sec 1/Math/Dossier 2/Le Taux\|Le Taux]]
 
-[[Notes/Sec 1/Math/Dossier 2/Le tant pour cent (pourcentage d'un nombre)\|Notes/Sec 1/Math/Dossier 2/Le tant pour cent (pourcentage d'un nombre)]]
+[[Notes/Sec 1/Math/Dossier 2/Le tant pour cent (pourcentage d'un nombre)\|Le tant pour cent (pourcentage d'un nombre)]]
 
 [[Notes/Sec 1/Math/Dossier 2/Les préfixes pour les grands nombres\|Les préfixes pour les grands nombres]]
 

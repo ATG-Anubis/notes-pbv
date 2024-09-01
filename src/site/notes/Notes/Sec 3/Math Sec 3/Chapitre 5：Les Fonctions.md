@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 3/Math Sec 3/Chapitre 5：Les Fonctions/"}
 ---
 
+>[!Info] Malheureusement, je n'ai pas pris de notes pour ce chapitre, soit par manque de motivation ou par manque de temps. Désolé.
+
 [[Notes/Sec 3/Math Sec 3/Chapitre 5：Les Fonctions/Section 5.1： La relation linéaire entre deux variables\|Section 5.1： La relation linéaire entre deux variables]]
 
 [[Notes/Sec 3/Math Sec 3/Chapitre 5：Les Fonctions/Section 5.2： Les modes de représentations d’une relation\|Section 5.2： Les modes de représentations d’une relation]]

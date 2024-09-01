@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 3/Science Sec 3/Module 3：Univers matériel/Chapitre 10：Les ondes/"}
 ---
 
+Malheureusement, je n'ai pas pris de notes pour ce chapitre, soit par manque de motivation ou par manque de temps. Désolé.
 
 [[Notes/Sec 3/Science Sec 3/Module 3：Univers matériel/Chapitre 10：Les ondes/10.1：Les ondes et leurs caractéristiques\|10.1：Les ondes et leurs caractéristiques]]
 

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/"}
 ---
 
+>[!Info] Malheureusement, je n'ai pas pris de notes pour ce chapitre, soit par manque de motivation ou par manque de temps. Désolé.
+
 
 [[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.1 Champlain 1608-1617\|2.1 Champlain 1608-1617]]
 

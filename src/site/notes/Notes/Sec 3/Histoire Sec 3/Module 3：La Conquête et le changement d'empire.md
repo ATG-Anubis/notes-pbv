@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 3/Histoire Sec 3/Module 3：La Conquête et le changement d'empire/"}
 ---
 
+>[!Info] Malheureusement, je n'ai pas pris de notes pour ce chapitre, soit par manque de motivation ou par manque de temps. Désolé.
+
 
 [[Notes/Sec 3/Histoire Sec 3/Module 3：La Conquête et le changement d'empire/3.1 Fin de la Guerre de la Conquête\|3.1 Fin de la Guerre de la Conquête]]
 

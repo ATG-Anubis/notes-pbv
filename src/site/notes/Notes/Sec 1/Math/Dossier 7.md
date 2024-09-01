@@ -6,7 +6,7 @@
 
 [[Notes/Sec 1/Math/Dossier 7/Classification des triangles\|Classification des triangles]]
 
-[[Notes/Sec 1/Math/Dossier 7/Périmètre\|Notes/Sec 1/Math/Dossier 7/Périmètre]]
+[[Notes/Sec 1/Math/Dossier 7/Périmètre\|Périmètre]]
 
 [[Notes/Sec 1/Math/Dossier 7/Formules d'aire\|Formules d'aire]]
 

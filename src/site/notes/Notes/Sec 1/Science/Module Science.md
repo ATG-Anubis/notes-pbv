@@ -4,7 +4,7 @@
 
 # Science
 
-[[Notes/Sec 1/Science/Science/Module 1\|Notes/Sec 1/Science/Science/Module 1]]
+[[Notes/Sec 1/Science/Science/Module 1\|Module 1]]
 
 [[Notes/Sec 1/Science/Science/Module 2 a\|Module 2 a]]
 

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 3/Histoire Sec 3/Module 2b：L'évolution de la Nouvelle-France, colonie appartenant à la France/"}
 ---
 
+>[!Info] Malheureusement, je n'ai pas pris de notes pour ce chapitre, soit par manque de motivation ou par manque de temps. Désolé.
+
 
 [[Notes/Sec 3/Histoire Sec 3/Module 2b：L'évolution de la Nouvelle-France, colonie appartenant à la France/2.9 Guerre 1 1689-1687\|2.9 Guerre 1 1689-1687]]
 
