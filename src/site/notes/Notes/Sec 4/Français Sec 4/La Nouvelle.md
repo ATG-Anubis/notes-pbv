@@ -3,6 +3,8 @@
 ---
 
 
+### Temps de verbes
+
 >[!Question]- Quand est-ce qu'on utilise le plus-que-parfait dans la nouvelle?
 >Lorsqu'on veut faire un retour dans le passé, pour parler d'actions déjà terminées.
 
@@ -18,6 +20,8 @@
 >Lorsqu'on parle d'actions futures possiblement hypothétiques
 >Lorsqu'on fait une prévision
 
+
+### Caractéristiques
 
 >[!Question]- Quelle est la longueur d'une nouvelle?
 >C'est une courte histoire.
@@ -37,11 +41,12 @@
 >[!Question]- C'est quoi le thème de l'histoire?
 >C'est le sujet de l'histoire, sur quoi elle est basée.
 
-
 >[!Question]- Quels sont les deux types de nouvelles au niveau de réalisme comparé à la vraie vie?
 >- Vraisemblable (réaliste)
 >- Invraisemblable (irréaliste)
 
+
+### Parties de la nouvelle
 
 >[!Question]- C'est quoi la situation initiale?
 >C'est le départ de l'histoire, cette partie contient souvent des souvenirs, des anticipations.
@@ -57,4 +62,51 @@
 
 >[!Question]- C'est quoi la situation finale?
 >C'est le nouvel équilibre. Parfois absent dans la nouvelle.
+
+
+### Le schéma actanciel
+
+
+>[!Question]- De quoi constitue le schéma actanciel ?
+>- Le sujet
+>- L’objet
+>- Le destinateur
+>- Le destinataire
+>- Les opposants
+>- Les adjuvants
+
+>[!Question]- C'est quoi le sujet?
+>C'est le personnage principal
+
+>[!Question]- C'est quoi l'objet?
+>C'est l'objectif ou la quête du sujet.
+
+>[!Question]- C'est quoi le destinateur?
+>C'est ce qui pousse le sujet à agir.
+
+>[!Question]- C'est quoi le destinataire?
+>C'est la personne ou la chose qui obtient un bénéfice ou un avantage à la fin de la mission/quête.
+
+>[!Question]- C'est quoi les opposants?
+>Ce sont ce qui nuisent à la réalisation de la mission du sujet.
+
+>[!Question]- C'est quoi les adjuvants?
+>Ce sont ceux ou celui qui aident le sujet à accomplir la mission.
+
+
+### Les thèmes du récit
+
+>[!Question]- Quels sont les 2 types de thèmes dans la nouvelle?
+>Le thème majeur
+>Le ou les thèmes secondaires
+
+>[!Question]- C'est quoi le thème majeur?
+>C'est le thème principal, le thème le plus important dans l'histoire
+
+>[!Question]- C'est quoi le thème secondaire?
+>C'est un thème qui n'est pas autant important ou qui apparaît pendant seulement une partie de l'histoire.
+
+>[!Question]- Comment fait-on pour repérer les thèmes de la nouvelle?
+>- Il faut étudier les champs lexicaux pour trouver un vocabulaire récurrent.
+>- Il faut trouver les défis que le personnage principal doit relever.
 

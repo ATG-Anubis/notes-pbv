@@ -21,7 +21,6 @@
 
 >[!Question]- De quoi constitue le schéma actanciel ?
 >- Le sujet
->- Les péripéties
 >- L’objet
 >- Le destinateur
 >- Le destinataire

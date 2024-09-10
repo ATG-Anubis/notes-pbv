@@ -11,7 +11,7 @@
 >[!Question]- Que veulent les patriotes?
 >Une vraie démocratie
 
->[!Question]- Que feront les patriotes pour essayer de changer leur situation?
+>[!Warning]- Que feront d'abord les patriotes pour essayer de changer leur situation?
 >Ils vont envoyer les 92 résolutions.
 
 >[!Question]- Quelles sont les demandes les plus importantes dans ce document?
@@ -30,20 +30,20 @@
 >[!Question]- Qui sera nommé par le roi pour trouver les causes des rébellions?
 >Lord Durham
 
->[!Question]- Que seront ses observations sur la colonie? (4 observations)
+>[!Warning]- Que seront ses observations sur la colonie? (4 observations)
 >- Il y a 2 nations différentes, ce qui amène des conflits culturels.
 >- Les Canadiens-Français n'ont pas évolués depuis 1760.
 >- La colonie ne possède pas une réelle démocratie.
 >- Les Canadiens-Français sont majoritaires dans la chambre d'assemblée au Bas-Canada
 
->[!Question]- Que seront les recommandations de Russell suite à son enquête? (4 recommandations)
+>[!Warning]- Que seront les recommandations de Russell suite à son enquête? (4 recommandations)
 >- Il faudra assimiler les Canadiens-Français
 >- Il faudra accorder le gouvernement responsable
 >- Il faudra unir les 2 chambres d'assemblées pour rendre les Canadiens-Français minoritaires.
 >- Solution finale: Unir le Haut et le Bas-Canada
 
 >[!Question]- C'est quoi un gouvernement responsable?
->C'est un conseil exécutif dont les membres sont choisis parmi le parti politique majoritaire. C'est un conseil exécutif dont les membres sont élus par la population.
+>C'est un conseil exécutif dont les membres sont choisis parmi les chefs du parti politique majoritaire de la chambre d'assemblée.
 
 
 ### Les caractéristiques de l'Acte d'Union
