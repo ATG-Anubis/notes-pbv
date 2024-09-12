@@ -3,5 +3,5 @@
 ---
 
 
-[[Notes/Sec 4/Français Sec 4/La Nouvelle\|La Nouvelle]]
+[[Notes/Sec 4/Français Sec 4/La Nouvelle Littéraire\|La Nouvelle Littéraire]]
 

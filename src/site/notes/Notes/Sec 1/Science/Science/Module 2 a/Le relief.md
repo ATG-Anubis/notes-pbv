@@ -6,7 +6,7 @@
 
 - C'est quoi le relief?
     - C'est l'ensemble des formes que l'on retrouve à la surface de la lithosphère
-- Quels sont le différents types de reliefs?
+- Quels sont les différents types de reliefs?
     - Montagnes
     - Collines
     - Fjord
@@ -15,7 +15,7 @@
     - Vallée
     - Bouclier
 - Comment se caractérisent les montagnes?
-    - Elles se caractérisent par de fortes pentes
+    - Elles se caractérisent par de fortes pentes.
     - Elles ont donc un relief très élevé
     
 - Comment caractérise-t-on les collines?
@@ -27,6 +27,6 @@
 - Comment caractérise-t-on les vallées?
     - C'est une étendue basse située entre 2 montagnes parcourue par une rivière
 - Comment se caractérise un bouclier?
-    - C'est une partie très ancienne du relief
-    - Ils ont l'apparence d'un plateau
-    - Ils sont usées par le temps
+    - C'est une partie très ancienne du relief.
+    - Ils ont l'apparence d'un plateau.
+    - Ils sont usés par le temps.

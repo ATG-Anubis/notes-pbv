@@ -5,7 +5,7 @@
 # Les volcans
 
 - C'est quoi un volcan?
-    - C'est un lieu où du magma provenant du manteau traverse la croûte terrestre pour se rendre jusqu'a la surface de la terre
+    - C'est un lieu où du magma provenant du manteau traverse la croûte terrestre pour se rendre jusqu'à la surface de la terre
 - C'est quoi les deux différents types de volcans?
     - Le stratovolcan
     - Le bouclier
