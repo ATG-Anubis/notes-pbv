@@ -3,7 +3,7 @@
 ---
 
 
-[[Notes/Sec 4/Math Sec 4/Chapitre 1. La corrélation\|Chapitre 1. La corrélation]]
+[[Notes/Sec 4/Math Sec 4/Chapitre 7. La trigonométrie\|Chapitre 7. La trigonométrie]]
 
 [[Notes/Sec 4/Math Sec 4/Chapitre 2. Les fonctions\|Chapitre 2. Les fonctions]]
 
@@ -17,4 +17,4 @@
 
 [[Notes/Sec 4/Math Sec 4/Chapitre 6. Les systèmes d’équations\|Chapitre 6. Les systèmes d’équations]]
 
-[[Notes/Sec 4/Math Sec 4/Chapitre 7. La trigonométrie\|Chapitre 7. La trigonométrie]]
+[[Notes/Sec 4/Math Sec 4/Chapitre 1. La corrélation\|Chapitre 1. La corrélation]]
