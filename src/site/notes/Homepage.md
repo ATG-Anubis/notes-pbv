@@ -53,9 +53,9 @@ Pour cette raison, le site se navigue plus facilement en utilisant les liens sur
 
 
 ## Stastistiques:
-1412 questions et réponses
+1426 questions et réponses
 575 pages au total
-179 pages vides
+178 pages vides
 140 pages contenant des liens à d'autres pages
-306 pages complètes
-45 219 mots au total
+307 pages complètes
+45 502 mots au total
