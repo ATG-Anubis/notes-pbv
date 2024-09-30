@@ -47,10 +47,10 @@
 >- C'est utilisé dans une phrase exclamative.
 >- Ex : quel, quelle, quels, quelles, que de
 
->[!Question]- Comment peut-on repérer le déterminent dans un texte ?
+>[!Question]- Comment peut-on repérer le déterminant dans un texte ?
 >Voici quelques méthodes :
 >- Remplacement : remplacer le déterminant par un autre déterminant.
 >- Ajout : Ajouter un déterminant après le déterminent
 >- Encadrement
->- Déplacement
+>- Déplacement : déplacer le déterminant à un autre endroit
 
