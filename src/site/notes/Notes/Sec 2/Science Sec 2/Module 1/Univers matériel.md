@@ -6,12 +6,12 @@
 
 >[!question]- Comment se nomme cet objet scientifique?
 >![Cylindre gradué.png](https://dbimg.eu/i/8txp0l9fv7.jpg)
->>[!Todo]- Réponse
+>>[!Info]- Réponse
 >>Cylindre gradué
 
 >[!question]- Comment se nomme cet objet scientifique?
 ![Bécher.jpg](https://dbimg.eu/i/7jlet8zpk6.jpg)
->>[!Todo]- Réponse
+>>[!Info]- Réponse
 >>Bécher
 
 >[!question]- Comment se nomme cet objet scientifique?

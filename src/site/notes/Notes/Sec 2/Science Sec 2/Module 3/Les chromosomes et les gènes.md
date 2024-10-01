@@ -5,7 +5,7 @@
 
 >[!Question]- Comment sont déterminés les caractères visibles d'un être vivant?
 >Par les chromosomes
->>[!Example]- Où trouve-t-on les chromosomes?
+>>[!Question]- Où trouve-t-on les chromosomes?
 >>À l'intérieur du noyau des cellules
 
 >[!Question]- Comment sont transmises les caractéristiques des gènes?
@@ -17,7 +17,7 @@
 
 >[!Question]- Est-ce que les paires de chromosomes sont pareilles chez les hommes et les femmes?
 >Oui, avec une exception
->>[!Example]- Quelle est cet exemple?
+>>[!Question]- Quelle est cet exception?
 >>Le numéro 23
 >>>[!Abstract]- Que détermine ce chromosome?
 >>>Le genre de l'enfant

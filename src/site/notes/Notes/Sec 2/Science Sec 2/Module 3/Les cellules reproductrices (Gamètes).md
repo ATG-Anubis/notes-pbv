@@ -8,13 +8,13 @@
 
 >[!Question]- Comment le spermatozoïde fait-il pour se déplacer?
 >Il utilise le flagelle
->>[!Example]- Comment distingue-t-on le flagelle?
+>>[!Question]- Comment distingue-t-on le flagelle?
 >>Ça ressemble à une queue
 
 >[!Question]- Quelle est la grandeur du spermatozoïde?
 >50 microns ($50 \mu$)
->>[!example]- Nomme un fait interessant sur la grandeur du spermtozoïde par rapport aux autres cellules.
->>	C'est la plus petite cellule humaine
+>>[!Question]- Nomme un fait intéressant sur la grandeur du spermatozoïde par rapport aux autres cellules.
+>>C'est la plus petite cellule humaine
 
 >[!Question]- Combien de spermatozoïdes produit un homme au cours de sa vie?
 >1000 milliards (1 billion)
@@ -24,7 +24,7 @@
 
 >[!Question]- Quelle est la grandeur de l'ovule?
 >400 microns ($400 \mu$)
->>[!Example]- Nomme un fait interessant sur la grandeur de l'ovule par rapport aux autres cellules humaines.
+>>[!Question]- Nomme un fait intéressant sur la grandeur de l'ovule par rapport aux autres cellules humaines.
 >>C'est la plus grosse cellule ronde du corps humain
 
 >[!Question]- Combien d'ovules produit la femme durant son cycle menstruel?

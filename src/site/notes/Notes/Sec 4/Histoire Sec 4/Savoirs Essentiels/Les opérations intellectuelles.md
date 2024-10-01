@@ -26,3 +26,18 @@
 
 >[!Question]- Pourquoi n'utilise-t-on pas des mots reliés au changement (comparé à, par contre, tandis que) lorsqu'on parle d'un changement?
 >Car ce qui est important est simplement le changement lui-même, il n'est donc pas nécessaire de faire référence au passé.
+
+
+### Dégager des différences et des similitudes
+
+>[!Question]- C'est quoi la tâche à accomplir pour cette question?
+>Indiquer ce qui est semblable ou ce qui est différent entre certains éléments.
+
+>[!Question]- Quels mots doit-on utiliser lorsqu'on indique une différence?
+>"Tandis que" ou "Alors que".
+
+#### Dégager un point de convergence ou de divergence
+
+>[!Question]- C'est quoi la tâche à accomplir pour cette question?
+>On doit indiquer le point précis sur lequel 2 personnes sont en accord ou en désaccord.
+

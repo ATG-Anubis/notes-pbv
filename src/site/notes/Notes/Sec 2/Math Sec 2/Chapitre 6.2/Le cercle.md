@@ -5,32 +5,32 @@
 # Le cercle
 >[!question]- C’est quoi la circonférence?    
 >Le périmètre du cercle
->>[!Example]- Symbole:
+>>[!Question]- Symbole:
 >C
 
 >[!question]- C’est quoi le rayon?
 >C’est un segment qui rejoint le centre à un point sur la circonférence
->>[!Example]- Symbole:
+>>[!Question]- Symbole:
 >>$$r$$
 
 >[!question]- C’est quoi la corde?
 >C’est un segment qui rejoint deux points de la circonférence d’un cercle
 
 >[!question]- C’est quoi le diamètre?
->Segment qui joint deux points du cercle en passant pas son millieu
->>[!Example]- Symbole:
+>Segment qui joint deux points du cercle en passant par son milieu
+>>[!Question]- Symbole:
 >>$$d$$
 
 >[!question]- C’est quoi l’arc de cercle?
 >C'est une partie de la circonférence
->>[!Example]- Symbole:
+>>[!Question]- Symbole:
 >>$$\stackrel{\frown}{\textrm{AB}}$$
 
 >[!question]- C’est quoi l’angle au centre?
 >Angle formé par deux rayons du cercle
 
 >[!question]- C’est quoi le disque?
->région intérieur du cercle
+>région intérieure du cercle
 
 >[!question]- C’est quoi le secteur circulaire?
 >Partie d’un disque comprise entre deux rayons
@@ -38,7 +38,7 @@
 >[!question]- C’est quoi le nombre pi?
 >Nombre de fois que le diamètre se retrouve dans la circonférence
 Valeur: 3.1415926535897932384626433832795028841971693993751058209749445923078
->>[!Example]- Symbole: 
+>>[!Question]- Symbole: 
 >>$$\pi$$
 
 >[!question]- Comment calcule t-on la circonférence d’un cercle?

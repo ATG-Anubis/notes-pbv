@@ -52,10 +52,7 @@ Pour cette raison, le site se navigue plus facilement en utilisant les liens sur
 ## [[Notes/Sec 4\|Sec 4]]
 
 
-## Stastistiques:
-1468 questions et réponses
-575 pages au total
-176 pages vides
-140 pages contenant des liens à d'autres pages
-309 pages complètes
-46 129 mots au total
+## Statistiques:
+1 847 questions et réponses
+568 pages au total
+46 746 mots au total

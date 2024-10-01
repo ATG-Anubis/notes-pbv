@@ -19,21 +19,21 @@
 
 >[!Question]- C'est quoi que l'on retrouve en haut de l'entrée du vagin?
 >le méat urinaire
->>[!Example]- Quel est sa fonction
+>>[!Question]- Quel est sa fonction?
 >>Évacuer l'urine
 
->[!Question]- Quel est le nom de l'organe très sensible qui se trouve à la honction supérieure des petites lèvres?
+>[!Question]- Quel est le nom de l'organe très sensible qui se trouve à la jonction supérieure des petites lèvres?
 >Le clitoris
 
 >[!Question]- Comment se nomme la petite membrane fine qui ferme partiellement l'entrée du vagin?
 >L'hymen
->>[!Example]- Comment peut-elle être rompue?
+>>[!Question]- Comment peut-elle être rompue?
 >>Lors du premier rapport sexuel
 >>Lors de l'insertion d'un tampon
 >>Lors de la pratique d'un sport
 
 >[!Question]- C'est quoi les ovaires? (2)
->Ce sont les organes qui ont pour fonction de favriques les ovules, qui sont les cellules reproductrices de la femme.
+>Ce sont les organes qui ont pour fonction de fabriquer les ovules, qui sont les cellules reproductrices de la femme.
 >Ils produisent aussi des hormones féminines
 
 >[!Question]- Pendant combien de temps la femme produit-elle des ovules?
