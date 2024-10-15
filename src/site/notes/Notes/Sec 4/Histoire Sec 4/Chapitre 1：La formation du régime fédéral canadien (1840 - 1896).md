@@ -7,3 +7,4 @@
 
 [[Notes/Sec 4/Histoire Sec 4/Chapitre 1：La formation du régime fédéral canadien (1840 - 1896)/Dossier 2：Transformations socio-économiques\|Dossier 2：Transformations socio-économiques]]
 
+[[Notes/Sec 4/Histoire Sec 4/Chapitre 1：La formation du régime fédéral canadien (1840 - 1896)/Dossier 3：Vers la fédération canadienne (1864-1867)\|Dossier 3：Vers la fédération canadienne (1864-1867)]]
