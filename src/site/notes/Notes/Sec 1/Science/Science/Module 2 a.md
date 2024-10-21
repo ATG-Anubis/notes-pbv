@@ -10,7 +10,7 @@
 
 [[Notes/Sec 1/Science/Science/Module 2 a/Les plaques tectoniques\|Les plaques tectoniques]]
 
-[[Notes/Sec 1/Science/Science/Module 2 a/Les tremblements de terre\|Les tremblements de terre]]
+[[Les tremblements de terre\|Les tremblements de terre]]
 
 [[Notes/Sec 1/Science/Science/Module 2 a/Sphères\|Sphères]]
 

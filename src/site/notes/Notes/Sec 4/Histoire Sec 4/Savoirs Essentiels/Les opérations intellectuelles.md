@@ -41,3 +41,9 @@
 >[!Question]- C'est quoi la tâche à accomplir pour cette question?
 >On doit indiquer le point précis sur lequel 2 personnes sont en accord ou en désaccord.
 
+
+### CD2: Interpréter une réalité sociale
+
+>[!Question]- C'est quoi la tâche à accomplir pour cette question?
+>On écrit en deux paragraphes des causes ou des conséquences de divers évènements. Chaque paragraphe contient un élément de réponse.
+
