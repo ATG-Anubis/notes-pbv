@@ -3,12 +3,6 @@
 ---
 
 
-### [[Notes/Sec 4/Arts Sec 4\|Arts Sec 4]]
-
-
-### [[Notes/Sec 4/English Sec 4\|English Sec 4]]
-
-
 ### [[Notes/Sec 4/Français Sec 4\|Français Sec 4]]
 
 
