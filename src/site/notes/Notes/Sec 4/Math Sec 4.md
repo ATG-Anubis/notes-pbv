@@ -7,7 +7,7 @@
 
 [[Notes/Sec 4/Math Sec 4/Chapitre 2. Les fonctions\|Chapitre 2. Les fonctions]]
 
-[[Notes/Sec 4/Math Sec 4/Chapitre 3. Géométrie et Algèbre\|Chapitre 3. Géométrie et Algèbre]]
+[[Notes/Sec 4/Math Sec 4/Chapitre 3. La Factorisation\|Chapitre 3. La Factorisation]]
 
 [[Notes/Sec 4/Math Sec 4/Chapitre 4. La fonction quadratique\|Chapitre 4. La fonction quadratique]]
 

@@ -104,3 +104,35 @@
 >[!Question]- Explique comment les atomes dégagent différentes couleurs avec de la chaleur.
 >Lorsqu'un atome reçoit de l'énergie, les électrons passent rapidement à un niveau supérieur et ensuite reviennent à leur niveau d'origine.
 >Lorsqu'un électron revient à un niveau inférieur, l'énergie qu'elle produit est sous forme de lumière. Le plus qu'un électron a eu besoin de bouger, le plus que la lumière se tourne vers le violet.
+
+>[!Question]- Quelle est la découverte de Bohr?
+>Il a découvert les orbites des électrons autour du noyau des atomes.
+
+>[!Question]- Quelle est la limite du modèle atomique de Bohr?
+>Le modèle n'explique pas pourquoi le noyau n'éclate pas, puisqu'il serait fait de protons, et les protons se repellent.
+
+
+## Le modèle atomique simplifié
+
+>[!Question]- Quelle est la nouvelle particule incluse dans le modèle atomique simplifié?
+>Le neutron
+
+>[!Question]- C'est quoi un neutron?
+>C'est une particule neutre
+
+>[!Question]- Où se situe le neutron dans l'atome?
+>Au noyau
+
+>[!Question]- Quel est son rôle?
+>S'assurer que le noyau ne s'éclate pas en neutralisant les forces des protons.
+
+
+>[!Question]- Quel est le symbole pour l'électron?
+>e$^-$
+
+>[!Question]- Quel est le symbole pour le proton?
+>p$^+$
+
+>[!Question]- Quel est le symbole pour le neutron?
+>n
+
