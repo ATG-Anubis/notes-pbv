@@ -3,6 +3,7 @@
 ---
 
 
+# Les modèles atomiques
 ## Le modèle atomique de Démocrite
 
 >[!Question]- Comment était la matière dans le modèle atomique de Démocrite?
@@ -135,4 +136,86 @@
 
 >[!Question]- Quel est le symbole pour le neutron?
 >n
+
+
+
+# Le tableau périodique
+
+![](https://i.imgur.com/qsGjC2W.png)
+
+>[!Question]- Où se retrouvent les métaux?
+>À gauche de l'escalier, sans inclure l'hydrogène
+
+>[!Question]- Où se retrouvent les non-métaux?
+>À droite de l'escalier, incluant l'hydrogène
+
+
+>[!Question]- Comment appelle-t-on les colonnes verticales?
+>Les familles
+>
+>>[!Question]- Comment se nomme la famille I?
+>Les alcalins
+>
+>>[!Question]- Comment se nomme la famille II?
+>Les alcalino-terreux
+>
+>>[!Question]- Comment se nomme la famille VII?
+>Les hallogènes
+>
+>>[!Question]- Comment se nomme la famille VIII?
+>Les gaz nobles/inertes/rares
+
+>[!Question]- Que représente le numéro en chiffres romains des familles?
+>Il représente le nombre d'électrons sur la dernière couche électronique des atomes.
+>>[!Question]- Quel est l'autre terme utilisé pour parler des électrons sur la dernière couche électronique?
+>>Les électrons de valence
+
+
+>[!Question]- Comment appelle-t-on les colonnes horizontales?
+>Les périodes
+>>[!Question]- Que représente le nombre des périodes?
+>>Il représente le nombre de couches électroniques dans les atomes.
+
+>[!Question]- C'est quoi un métalloïde?
+>C'est un élément qui possède certaines propriétés métalliques, mais qui n'est pas un métal.
+
+
+>[!Question]- Que représente le numéro atomique (en haut des cases)?
+>Il représente le nombre de protons dans l'atome
+
+>[!Question]- Comment fait-on pour trouver le nombre de nucléons dans un atome sur le tableau périodique?
+>On arrondis la masse de l'atome (la masse se retrouve au bas de chaque case).
+
+
+## Les propriétés des familles
+
+>[!Question]- Quelle famille possède des métaux mous et très réactifs?
+>Les alcalins
+
+>[!Question]- Quelle famille possède des métaux très malléables et moins réactifs?
+>Les alcalino-terreux
+
+>[!Question]- Quelle famille possède des non-métaux très réactifs qui sont souvent utilisés comme désinfectants?
+>Les halogènes
+
+>[!Question]- Quelle famille possède des non-métaux très peu réactifs?
+>Les gaz inertes
+
+
+## La périodicité des propriétés
+
+>[!Question]- C'est quoi la périodicité des propriétés?
+>C'est la répétition des propriétés d'une période à l'autre.
+
+>[!Question]- Quelle répétition des propriétés retrouve-t-on dans les périodes du tableau périodique?
+>Plus que l'atome possède de particules, plus les particules se tiennent fortement entre-eux, donc le rayon diminue.
+
+>[!Question]- Quelle répétition des propriétés retrouve-t-on dans les familles du tableau périodique?
+>Lorsqu'on passe à la prochaine famille, l'attraction entre les particules de l'atome diminue.
+
+
+## La réactivité chimique
+
+>[!Question]- Où se situent les éléments de plus en plus réactifs?
+>Vers les extrémités du tableau périodique, sans inclure les gaz nobles.
 
