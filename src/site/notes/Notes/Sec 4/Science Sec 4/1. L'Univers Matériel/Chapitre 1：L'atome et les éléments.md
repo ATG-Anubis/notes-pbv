@@ -219,3 +219,47 @@
 >[!Question]- Où se situent les éléments de plus en plus réactifs?
 >Vers les extrémités du tableau périodique, sans inclure les gaz nobles.
 
+
+## Les isotopes
+
+>[!Question]- C'est quoi les isotopes?
+>Ce sont des atomes du même élément qui ont une masse différente.
+>>[!Question]- Quel est le facteur qui influence leur masse?
+>Le nombre de neutrons qu'ils possèdent.
+
+![](https://i.imgur.com/2TmdlxL.png)
+
+>[!Question]- Que représente le E dans l'annotation des isotopes?
+>Il représente le symbole de l'élément
+>Ex: **Ne** pour néon
+
+>[!Question]- Que représente le A dans l'annotation des isotopes?
+>Il représente le nombre de masse.
+>>[!Question]- C'est quoi le nombre de masse?
+>>C'est la masse atomique arrondie de l'élément
+
+>[!Question]- Que représente le Z dans l'annotation des isotopes?
+>Le numéro atomique
+>>[!Question]- C'est quoi le numéro atomique?
+>>C'est le nombre de protons dans l'atome
+
+
+>[!Question]- Que représente le nombre de masse?
+>Il représente le nombre de nucléons dans un atome.
+>>[!Question]- C'est quoi un nucléon?
+>>C'est les protons et les neutrons
+
+
+## La masse atomique relative
+
+>[!Question]- C'est quoi la masse atomique relative?
+>C'est la masse d'un atome calculé à partir de ses isotopes.
+
+>[!Question]- Comment fait-on pour calculer la masse atomique relative d'un élément? (2 Étapes)
+>1.  On fait cette formule pour tous les isotopes: $\text{Nombre de masse}\times \text{Le pourcentage de son abondance dans la nature}$
+>2. On calcule la somme de toutes les réponses
+
+
+>[!Question]- Comment fait-on pour trouver le nombre de masse de l'isotope le plus abondant d'un élément?
+>On arrondit la masse atomique de l'élément.
+
