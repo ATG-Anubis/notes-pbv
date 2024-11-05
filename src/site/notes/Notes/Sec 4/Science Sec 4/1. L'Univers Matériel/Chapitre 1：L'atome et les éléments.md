@@ -263,3 +263,27 @@
 >[!Question]- Comment fait-on pour trouver le nombre de masse de l'isotope le plus abondant d'un élément?
 >On arrondit la masse atomique de l'élément.
 
+
+
+## La représentation des atomes
+
+>[!Question]- Combien d'électrons sont présents dans la première couche électronique d'un atome?
+>2, à part l'hydrogène
+
+
+## La notion de mole
+
+>[!Question]- Quel nombre équivaut au nombre de mole?
+>6.02 x 10²³
+
+>[!Question]- C'est quoi la masse molaire?
+>C'est la masse de 1 mol d'une substance
+>>[!Question]- Quelle est l'unité utilisée pour la masse molaire?
+>>g/mol
+
+>[!Question]- Comment fait-on pour trouver la masse molaire d'un élément?
+>La masse molaire d'un élément est sa masse atomique en grammes
+>Exemple: la masse molaire d'un élément de 16,00u est 16,00g
+
+
+
