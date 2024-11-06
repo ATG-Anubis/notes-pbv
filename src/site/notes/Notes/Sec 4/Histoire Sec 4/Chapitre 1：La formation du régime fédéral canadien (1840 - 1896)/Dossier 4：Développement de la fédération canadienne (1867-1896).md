@@ -123,3 +123,21 @@
 >[!Question]- Que fera le gouvernement aussi pour officialiser les lois sur les autochtones?
 >Il créera la Loi sur les Indiens
 
+
+## La vie politique au Canada
+
+>[!Question]- Qui est Honoré Mercier?
+>Il était un premier ministre au Québec
+
+>[!Question]- Quelles sont les raisons pour lesquelles il augmente le nationalisme chez les Canadiens-français? (3 raisons)
+>- La pendaison de Louis Riel
+>- L'apparition des mouvements orangistes
+>- La diminution des écoles dans lesquelles on enseigne le français
+
+>[!Question]- Qui sont les orangistes?
+>C'est un groupe de personnes qui possède des idéologies racistes extrêmes.
+
+>[!Question]- Quels sont les 2 objectifs d'Honoré Mercier?
+>- Protéger les valeurs traditionnelles des Canadiens-français.
+>- Augmenter l'autonomie provinciale du Québec.
+
