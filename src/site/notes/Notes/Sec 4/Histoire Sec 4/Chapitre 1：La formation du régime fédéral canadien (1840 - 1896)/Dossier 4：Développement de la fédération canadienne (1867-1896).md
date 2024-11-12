@@ -124,10 +124,23 @@
 >Il créera la Loi sur les Indiens
 
 
-## La vie politique au Canada
+## La vie politique au Canada à la fin du 19e siècle
 
 >[!Question]- Qui est Honoré Mercier?
 >Il était un premier ministre au Québec
+
+>[!Question]- Quels sont les 2 objectifs d'Honoré Mercier?
+>- Protéger les valeurs traditionnelles des Canadiens-français.
+>- Augmenter l'autonomie provinciale du Québec.
+
+>[!Question]- Pourquoi veut-il l'autonomie provinciale?
+>Car le gouvernement fédéral abuse son droit de désaveu
+>>[!Question]- C'est quoi le droit de désaveu?
+>>C'est le droit de rejeter une loi suggérée par une colonie
+
+>[!Question]- Que fera-t-il pour avoir l'autonomie provinciale?
+>Il organisera une première conférence interprovinciale qui finira par limiter le droit de désaveu du gouvernement fédéral.
+
 
 >[!Question]- Quelles sont les raisons pour lesquelles il augmente le nationalisme chez les Canadiens-français? (3 raisons)
 >- La pendaison de Louis Riel
@@ -137,7 +150,15 @@
 >[!Question]- Qui sont les orangistes?
 >C'est un groupe de personnes qui possède des idéologies racistes extrêmes.
 
->[!Question]- Quels sont les 2 objectifs d'Honoré Mercier?
->- Protéger les valeurs traditionnelles des Canadiens-français.
->- Augmenter l'autonomie provinciale du Québec.
+
+## La politique nationale de Macdonald (1879)
+
+>[!Question]- En quoi constituera le projet de politique nationale de Macdonald? (3 éléments)
+>- Une hausse des tarifs douaniers
+>- La construction du chemin de fer
+>- La hausse de l'immigration
+
+>[!Question]- Pourquoi met-il en place cette politique? (2 raisons)
+>- C'est la Crise Économique au Canada
+>- Le Canada ne peut pas concurrencer avec les États-Unis
 
