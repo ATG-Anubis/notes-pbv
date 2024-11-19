@@ -34,6 +34,6 @@
 
 >[!info] diviser = multiplier inverse multiplicatif
 
->[!question]- Donne une autre manière d'écrire: $$\frac {3} {5} {x}$$?
+>[!question]- Donne une autre manière d'écrire: $\frac {3} {5} {x}$
 >$$\frac {3x} {5}$$
 

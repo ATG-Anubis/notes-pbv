@@ -33,7 +33,7 @@
 ## Les relations avec les Métis
 
 >[!Question]- C'est quoi un Métis?
->C'est une personne née avec des parents de deux ethnies différentes.
+>C'est une personne née avec des parents de deux ethnies différentes. Souvent un de ses parents est autochtone.
 
 
 >[!Question]- Qui sont les personnes envoyées à la Terre de Rupert par le gouvernement, suite à l'achat de cette région?
@@ -63,7 +63,7 @@
 >Ils s'enfuira aux États-Unis
 
 
->[!Question]- Que demanderont les Métis en échange que le gouvernement ait fait tous ces dégats?
+>[!Question]- Que demanderont les Métis pour compenser les dommages causés par le gouvernement?
 >Ils demanderont d'avoir leur propre province.
 
 >[!Question]- Est-ce que cette demande sera acceptée?
@@ -80,7 +80,7 @@
 >Ils feront un autre soulèvement mené par Louis Riel.
 
 >[!Question]- Que sera le résultat de ce nouveau soulèvement?
->Ce sera un échec.
+>Ce sera une défaite pour les Métis.
 
 >[!Question]- Pourquoi ont-ils perdus si facilement contre le gouvernement?
 >Car le gouvernement utilisait le chemin de fer pour envoyer des soldats rapidement.
@@ -99,7 +99,7 @@
 >- Pour continuer la construction du chemin de fer
 
 >[!Question]- Comment le gouvernement fait-il pour ne pas entrer en conflit avec les autochtones, puisqu'il essaie de coloniser leur territoire?
->Il signe des ententes pour avoir la permission de coloniser les territoires.
+>Il signe des traités pour avoir la permission de coloniser les territoires.
 
 >[!Question]- Pourquoi ces ententes sont-elles injustes?
 >Car le gouvernement créé la famine chez les autochtones, pour ensuite signer des ententes dans lesquelles ils peuvent coloniser leur territoire en échange de leur donner de la nourriture.
@@ -153,7 +153,7 @@
 
 ## La politique nationale de Macdonald (1879)
 
->[!Question]- En quoi constituera le projet de politique nationale de Macdonald? (3 éléments)
+>[!Question]- En quoi consistera le projet de politique nationale de Macdonald? (3 éléments)
 >- Une hausse des tarifs douaniers
 >- La construction du chemin de fer
 >- La hausse de l'immigration

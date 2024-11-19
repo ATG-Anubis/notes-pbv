@@ -5,7 +5,8 @@
 
 >[!question]- C'est quoi le carré d'un nombre?
 >C'est le nombre produit par lui-même
->Ex: $$5^2 = 5 \ast 5 = 25$$
+>Ex:
+>$$5^2=5*5=25$$
 
 >[!question]- C'est quoi un carré parfait?
 >Lorsqu'on fait la racine carré de ce nombre, la réponse donne un entier

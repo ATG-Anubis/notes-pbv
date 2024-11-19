@@ -7,7 +7,7 @@ Bonjour !
 
 Ceci est une place où vous pouvez trouver (presque) toutes les notes de cours de la PBV du secondaire 1 au secondaire 4!
   
-  
+
 J'ai écrit toutes ces notes à la main et ce site web est un projet qui m'a pris plusieurs dizaines d'heures à créer donc j'espère que vous l'aimez :)
   
   
@@ -53,6 +53,6 @@ Pour cette raison, le site se navigue plus facilement en utilisant les liens sur
 
 
 ## Statistiques:
-2 115 questions et réponses
+2 178 questions et réponses
 574 pages
-52 229 mots
+53 240 mots

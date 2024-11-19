@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 2/Math Sec 2/Chapitre 6.2/Le cercle/"}
 ---
 
-# Le cercle
+
 >[!question]- C’est quoi la circonférence?    
 >Le périmètre du cercle
 >>[!Question]- Symbole:
@@ -52,4 +52,5 @@ Valeur: 3.1415926535897932384626433832795028841971693993751058209749445923078
 >C’est la surface comprises entre deux cercles concentriques
 
 >[!question]- Quelle est la formule pour calculer l’aire du disque?
->Avec cette formule: $$A = \pi r^2$$
+>Avec cette formule:
+>$$A = \pi r^2$$

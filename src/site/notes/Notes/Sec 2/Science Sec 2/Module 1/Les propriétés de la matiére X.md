@@ -14,7 +14,8 @@
 
 >[!Question]- Comment fait-on pour calculer la masse volumique d’un objet
 >On divise la masse par le volume
->Ex: $$\frac {5g} {5mL} = \frac {1g} {mL}$$
+>Ex:
+>$$\frac{5\text{g}}{5\text{mL}}=\frac{1\text{g}}{\text{mL}}$$
 
 >[!Question]- C'est quoi un changement physique?
 >C'est une transformation de la matière mais qui ne change pas sa nature
