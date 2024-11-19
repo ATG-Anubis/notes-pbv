@@ -5,5 +5,5 @@
 
 >[!Question]- Comment fait-on pour trouver le produit d'un monôme par un binôme?
 >On multiplie chacun des termes du binôme par le monôme.
->Ex: $2(3x-2)=(2*3x)+(2*-2)=6x-4$
+>Ex: $2(3x-2)=(2\times3x)+(2\times-2)=6x-4$
 

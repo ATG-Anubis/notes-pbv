@@ -4,18 +4,14 @@
 
 # Liaison et guidage
 
-- Ça permet quoi la liaison?
-    
-    maintenir les différentes pièces d’un objet ensemble
-    
-- Quels sont les deux types de liaison?
-    
-    Démontable et indémontable
-    
-- Nomme des organes de liaison
-    
-    Rivet, clou , colle, vis, etc
-    
-- C’est quoi la fonction de guidage?
-    
-    C’est la fonction mécanique élémentaire jouée par un ou plusieurs organes qui permettent à un element de se déplacer d’une façon précise
+>[!Question]- Ça permet quoi la liaison?
+>Maintenir les différentes pièces d’un objet ensemble
+
+>[!Question]- Quels sont les deux types de liaison?
+>Démontable et indémontable
+
+>[!Question]- Nomme des organes de liaison
+>Rivet, clou, colle, vis, etc.
+
+>[!Question]- C’est quoi la fonction de guidage?
+>C’est la fonction mécanique élémentaire jouée par un ou plusieurs organes qui permettent à un élément de se déplacer d’une façon précise.

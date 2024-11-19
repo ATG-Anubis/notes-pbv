@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/Notes/Sec 4/Math Sec 4/"}
 ---
 
-	
+
 [[Notes/Sec 4/Math Sec 4/Chapitre 7. La trigonométrie\|Chapitre 7. La trigonométrie]]
 
 [[Notes/Sec 4/Math Sec 4/Chapitre 2. Les fonctions\|Chapitre 2. Les fonctions]]

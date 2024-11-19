@@ -10,7 +10,7 @@
  
 [[Notes/Sec 2/Math Sec 2/Chapitre 6.2/Périmètre\|Périmètre]]
 
-[[Notes/Sec 2/Math Sec 2/Chapitre 6.2/L’air et le périmètre des polygones réguliers\|L’air et le périmètre des polygones réguliers]]
+[[Notes/Sec 2/Math Sec 2/Chapitre 6.2/L'air et le périmètre des polygones réguliers\|L'air et le périmètre des polygones réguliers]]
 
 [[Notes/Sec 1/Math/Dossier 3/Les polygones\|Les polygones]]
 

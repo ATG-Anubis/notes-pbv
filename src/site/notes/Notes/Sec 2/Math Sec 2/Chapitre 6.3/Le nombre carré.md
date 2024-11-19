@@ -6,7 +6,7 @@
 >[!question]- C'est quoi le carré d'un nombre?
 >C'est le nombre produit par lui-même
 >Ex:
->$$5^2=5*5=25$$
+>$$5^2=5\times5=25$$
 
 >[!question]- C'est quoi un carré parfait?
 >Lorsqu'on fait la racine carré de ce nombre, la réponse donne un entier
@@ -14,7 +14,8 @@
 
 >[!question]- C'est quoi la racine carré?
 >C'est faire l'opération inverse d'élever un nombre au carré
->Ex: $$\sqrt{121} = 11$$
+>Ex:
+>$$ \sqrt{121} = 11 $$
 >$$11^2 = 121$$
 ><u> **La racine carré d'un nombre négatif n'éxiste pas!** </u>
 

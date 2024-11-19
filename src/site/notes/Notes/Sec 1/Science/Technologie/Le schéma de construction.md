@@ -4,18 +4,13 @@
 
 # Le schéma de construction
 
-- C’est quoi le schéma de construction?
-    
-    Un dessin simplifié des pièces d’un objet technique et des matériaux utilisés dans sa fabrication 
-    
-- Qu’est ce qu’il y a dans le schéma de construction?
-    
-    un dessin de l’objet
-    
-    le nom des organes de liaison (si nécessaire)
-    
-    les parties de l’objet
-    
-    les matériaux utilisés
-    
-    une légende
+>[!Question]- C’est quoi le schéma de construction?
+>Un dessin simplifié des pièces d’un objet technique et des matériaux utilisés dans sa fabrication 
+
+>[!Question]- Qu’est-ce qu’il y a dans le schéma de construction?
+>- Un dessin de l’objet
+>- Le nom des organes de liaison (si nécessaire)
+>- Les parties de l’objet
+>- Les matériaux utilisés
+>- Une légende
+

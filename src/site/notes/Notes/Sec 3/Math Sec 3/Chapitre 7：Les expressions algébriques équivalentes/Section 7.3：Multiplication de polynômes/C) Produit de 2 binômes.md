@@ -20,6 +20,6 @@
 >1. On élève les monômes par la puissance demandée. 
 >Ex: Pour $(x+2)^2$ on ferait $x^2$ et $2^2$ puisque la puissance demandée est 2.
 >2. On multiplie les monômes entre eux et on multiplie le produit par 2.
->Ex: Pour $(x+2)^2$ on ferait $2(x*2)$
+>Ex: Pour $(x+2)^2$ on ferait $2(x\times2)$
 >3. On additionne le tout et on simplifie la réponse.
->Ex: Pour $(x+2)^2$ on ferait $x^2+2^2+2(x*2)$. La réponse simplifiée serait $x^2+4x+4$
+>Ex: Pour $(x+2)^2$ on ferait $x^2+2^2+2(x\times2)$. La réponse simplifiée serait $x^2+4x+4$

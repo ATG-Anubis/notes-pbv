@@ -4,18 +4,13 @@
 
 # Mouvements
 
-- Quels sont les types de mouvements?
-    
-    Translation
-    
-    Rotation
-    
-    Mouvement hélicoïdal
-    
-- Quels sont les sens des mouvements?
-    
-    Translation: Unidirectionnel, Bidirectionnel
-    
-    Rotation: Unidirectionnel, Bidirectionnel
-    
-    Mouvement hélicoïdal: Bidirectionnel
+>[!Question]- Quels sont les types de mouvements?
+>Translation
+>Rotation
+>Mouvement hélicoïdal
+
+>[!Question]- Quels sont les sens des mouvements?
+>Translation: Unidirectionnel, Bidirectionnel
+>Rotation: Unidirectionnel, Bidirectionnel
+>Mouvement hélicoïdal : Bidirectionnel
+

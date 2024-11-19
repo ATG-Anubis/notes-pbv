@@ -27,10 +27,10 @@
 >Les coefficients et les termes constants
 
 >[!question]- C’est quoi la loi des signes?
->(+) * (+) = (+)
->(-) * (+) = (-)
->(+) * (-) = (-)
->(-) * (-) = (+)
+>(+) $\times$ (+) = (+)
+>(+) $\times$ (-) = (-)
+>(-) $\times$ (+) = (-)
+>(-) $\times$ (-) = (+)
 
 >[!info] diviser = multiplier inverse multiplicatif
 

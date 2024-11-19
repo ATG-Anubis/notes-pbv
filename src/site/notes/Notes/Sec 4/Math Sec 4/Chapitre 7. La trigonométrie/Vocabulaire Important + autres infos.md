@@ -9,7 +9,7 @@
 >[!Question]- C'est quoi un côté opposé d'un angle sur un triangle?
 >C'est le côté qui ne touche pas directement le point de l'angle.
 
->[!Question]- Dans un triangle rectangle, quelle est la mesure du côté opposé à un angle de 30$^{\circ}$?
+>[!Question]- Dans un triangle rectangle, quelle est la mesure du côté opposé à un angle de 30°?
 >Ce côté mesure la moitié de l'hypoténuse
 
 >[!Question]- Quelle est la règle à suivre lorsqu'on assigne une lettre à un angle?

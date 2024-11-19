@@ -129,13 +129,13 @@
 
 
 >[!Question]- Quel est le symbole pour l'électron?
->e$^-$
+>$e^-$
 
 >[!Question]- Quel est le symbole pour le proton?
->p$^+$
+>$p^+$
 
 >[!Question]- Quel est le symbole pour le neutron?
->n
+>$n$
 
 
 
