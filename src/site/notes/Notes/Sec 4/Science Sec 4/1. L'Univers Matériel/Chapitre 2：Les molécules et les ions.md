@@ -138,3 +138,55 @@
 >[!Question]- Quelle est l'équation la plus commune pour le PPM?
 >$$1\text{PPM}=\frac{1\text{mg}}{1\text{kg}}$$
 
+
+## La conductibilité électrique et le pH
+
+>[!Question]- Comment nomme-t-on une substance qui conduit l'électricité une fois dissoute dans l'eau?
+>Un électrolyte
+
+>[!Question]- Comment nomme-t-on une substance qui ne conduit pas l'électricité une fois dissoute dans l'eau?
+>Un non-électrolyte
+
+>[!Question]- Quel type de liaison forme un électrolyte?
+>Une liaison ionique
+
+>[!Question]- Quel type de liaison forme un non-électrolyte?
+>Une liaison covalente
+
+
+>[!Question]- Que se passe-t-il chimiquement lorsqu'on dissout un électrolyte dans de l'eau?
+>L'électrolyte se sépare en ions, ce qui le permet de conduire le courant
+>>[!Question]- Comment appelle-t-on ce phénomène?
+>>La dissociation électrolytique
+
+>[!Question]- Que se passe-t-il chimiquement lorsqu'on dissout un non-électrolyte dans de l'eau?
+>L'électrolyte ne se sépare pas en ions, ce qui l'empêche de conduire le courant
+
+
+### Les types d'électrolytes
+
+>[!Question]- Quels sont les 3 types d'électrolytes?
+>- Les acides
+>- Les bases
+>- Les sels
+
+
+>[!Question]- De quoi sont composés les acides?
+>Ils sont composés d'un ion H+ et d'un non-métal ou d'un groupe de non-métaux.
+
+>[!Question]- Quelle partie se sépare l'acide lors d'une dissolution dans l'eau?
+>L'ion H+
+
+
+>[!Question]- De quoi sont composés les bases?
+>D'un métal et d'un ion OH-
+
+>[!Question]- Quelle partie se sépare de la base lors d'une dissolution dans l'eau?
+>L'ion OH-
+
+
+>[!Question]- De quoi sont composés les sels?
+>D'un métal et d'un non-métal
+
+>[!Question]- Quelle partie se sépare de la base lors d'une dissolution dans l'eau?
+>Des ions autres que le H+ et le OH-
