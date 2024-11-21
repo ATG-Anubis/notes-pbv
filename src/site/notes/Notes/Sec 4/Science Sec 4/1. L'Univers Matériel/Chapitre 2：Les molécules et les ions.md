@@ -160,7 +160,7 @@
 >>La dissociation électrolytique
 
 >[!Question]- Que se passe-t-il chimiquement lorsqu'on dissout un non-électrolyte dans de l'eau?
->L'électrolyte ne se sépare pas en ions, ce qui l'empêche de conduire le courant
+>Le non-électrolyte ne se sépare pas en ions, ce qui l'empêche de conduire le courant
 
 
 ### Les types d'électrolytes
@@ -188,5 +188,5 @@
 >[!Question]- De quoi sont composés les sels?
 >D'un métal et d'un non-métal
 
->[!Question]- Quelle partie se sépare de la base lors d'une dissolution dans l'eau?
+>[!Question]- Quelle partie se sépare des sels lors d'une dissolution dans l'eau?
 >Des ions autres que le H+ et le OH-
