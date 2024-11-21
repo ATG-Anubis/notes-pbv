@@ -41,13 +41,13 @@
 
 
 >[!Question]- C'est quoi un ion positif?
->C'est un ion dans lequel il y a plus d'électrons que de neutrons.
+>C'est un ion dans lequel il y a plus de protons que d'électrons.
 
 >[!Question]- Comment se nomme un ion positif?
 >Un cation
 
 >[!Question]- C'est quoi un ion négatif?
->C'est un atome dans lequel il y a plus de protons que d'électrons
+>C'est un atome dans lequel il y a plus d'électrons que de protons.
 
 >[!Question]- Comment se nomme un ion négatif?
 >Un anion
