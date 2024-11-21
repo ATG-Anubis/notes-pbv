@@ -190,3 +190,11 @@
 
 >[!Question]- Quelle partie se sépare des sels lors d'une dissolution dans l'eau?
 >Des ions autres que le H+ et le OH-
+
+
+>[!Question]- C'est quoi un électrolyte fort?
+>C'est un électrolyte qui dissocie plus d'ions, donc il conduit mieux l'électricité.
+
+>[!Question]- C'est quoi un électrolyte faible?
+>C'est un électrolyte qui ne dissocie pas beaucoup d'ions, donc il conduit mois bien l'électricité.
+
