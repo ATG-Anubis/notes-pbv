@@ -198,3 +198,22 @@
 >[!Question]- C'est quoi un électrolyte faible?
 >C'est un électrolyte qui ne dissocie pas beaucoup d'ions, donc il conduit mois bien l'électricité.
 
+
+
+## Le pH
+
+>[!Question]- Que veut dire pH?
+>Potentiel d'hydrogène
+
+>[!Question]- À quoi sert le pH?
+>Déterminer le degré d'acidité ou de basicité d'une solution aqueuse.
+
+>[!Question]- Quel est le pH d'un acide?
+>Moins de 7, plus l'acide est fort, moins le pH est élevé
+
+>[!Question]- Quel est le pH d'une base?
+>Plus que 7, plus l'acide est fort, plus que le pH sera élevé
+
+>[!Question]- Le pH est une échelle logarithmique. Qu'est-ce que ça veut dire?
+>Une différence d'une unité équivaut à une différence de 10 fois plus ou moins.
+
