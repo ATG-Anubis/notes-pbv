@@ -61,7 +61,32 @@
 
 ## Une politique d'immigration (flux migratoire) et ses effets
 
+>[!Question]- Quel est le but de la politique d'immigration?
+>Accueillir le plus d'immigrants possible au Canada.
 
+>[!Question]- À partir de quelle année l'immigration augmentera-t-elle?
+>À partir de 1905
+
+>[!Question]- D'où proviennent les immigrants?
+>- La Grande-Bretagne
+>- Les États-Unis
+>- L'Europe de l'Est
+>- La Chine
+
+>[!Question]- Quelles seront les conséquences de l'immigration? (4 conséquences)
+>- L'augmentation de production agricole
+>- La création de l'Alberta et de la Saskatchewan en 1905
+>- L'augmentation et la diversification de la population
+>- Le développement du racisme et de la xénophobie au Canada
+
+>[!Question]- Envers qui aura-t-il du racisme et de la xénophobie?
+>Envers les chinois
+
+>[!Question]- Que fera le gouvernement en rapport avec les chinois?
+>Il imposera des taxes sur l'immigration chinoise
+
+>[!Question]- Quel autre groupe ressentira de plus en plus de racisme?
+>Les Autochtones
 
 ## La politique intérieure canadienne
 

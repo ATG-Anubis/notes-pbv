@@ -217,3 +217,18 @@
 >[!Question]- Le pH est une échelle logarithmique. Qu'est-ce que ça veut dire?
 >Une différence d'une unité équivaut à une différence de 10 fois plus ou moins.
 
+
+
+>[!Question]- Quelles sont les étapes à suivre pour trouver le pH, pOH, [H+] et [OH-] d'une substance?
+>1. Déterminer si la substance est un acide ou une base (si elle contient H+ ou OH-)
+>2. Mettre la concentration en base 10
+>Exemple: 0,00001mol/L = $10^{-5}$mol/L
+>3. Utiliser l'exposant de la concentration pour trouver le pH ou le pOH. Si c'est un acide, l'exposant sera équivalent au pH, tandis que si c'est une base, l'exposant sera équivalent au pOH.
+>Exemple: Si c'est un acide avec une concentration de $10^{-5}$, le pH sera 5
+>5. Trouver la valeur manquante dans $\text{pH}+\text{pOH}=14$
+>Exemple: Si le pH est 5, le pOH sera 9
+>5. Mettre le pH en exposant négatif en base 10 pour le [H+]
+>Exemple: Si le pH est 5, le [H+] est $10^{-5}$mol/L
+>6. Mettre le pOH en exposant négatif en base 10 pour le [OH-]
+>Exemple: Si le pOH est 9, le [OH-] sera $10^{-9}$mol/L
+
