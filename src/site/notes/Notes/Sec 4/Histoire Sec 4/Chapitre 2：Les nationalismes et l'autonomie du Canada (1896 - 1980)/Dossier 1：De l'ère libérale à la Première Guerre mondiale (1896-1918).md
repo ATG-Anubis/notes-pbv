@@ -99,6 +99,11 @@
 >[!Question]- Envers quel autre groupe y aura-t-il de plus en plus de racisme?
 >Les Autochtones
 
+
+>[!Question]- Quelle sera la conséquence pour les canadiens-français qui vivent à l'extérieur du Québec?
+>Le français sera enseigné de moins en moins.
+
+
 ## La politique intérieure canadienne
 
 ### Les Premières Nations
@@ -108,7 +113,10 @@
 >>[!Question]- Quelle sera la conséquence de cet évènement?
 >>Les Inuits seront inclus dans la Loi sur les Indiens
 
-# 3- La deuxième phase d'industrialisation (1896-1929)
+# 3- La deuxième phase d'industrialisation
+
+>[!Question]- Quand est-ce que la deuxième phase d'industrialisation se produit-t-elle?
+>De 1900 à 1930
 
 >[!Question]- Quelles sont les causes qui facilitent l'essor l'économie du Canada? (4 causes)
 >- La politique économique de Macdonald est en continuité
@@ -163,6 +171,10 @@
 
 >[!Question]- Que se passe-t-il au mouvement syndical?
 >L'Église commence à s'inclure dans les syndicats
+
+>[!Question]- C'est quoi la CCTC?
+>C'est un mouvement de l'Église pour aider les ouvriers
+
 
 ## Le coopératisme
 
