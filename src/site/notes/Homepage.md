@@ -53,6 +53,6 @@ Pour cette raison, le site se navigue plus facilement en utilisant les liens sur
 
 
 ## Statistiques:
-2 408 questions et réponses
-575 pages
-54 587 mots
+2 434 questions et réponses
+576 pages
+55 062 mots
