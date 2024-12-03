@@ -172,26 +172,95 @@
 >[!Question]- Que se passe-t-il au mouvement syndical?
 >L'Église commence à s'inclure dans les syndicats
 
->[!Question]- C'est quoi la CCTC?
->C'est un mouvement de l'Église pour aider les ouvriers
+>[!Question]- C'est quoi la CCTC et les Chevaliers de travail?
+>Ce sont des mouvements de l'Église pour aider les ouvriers.
 
 
 ## Le coopératisme
 
+>[!Question]- Quand est-ce que le coopératisme se développe-t-il?
+>Au début du 20e siècle (au début des années 1900)
+
+>[!Question]- Quelle est la cause principale du coopératisme?
+>Les agriculteurs ne peuvent pas s'acheter des machines pour faire de l'agriculture et ils ne peuvent pas prêter de l'argent aux banques, car les taux d'intérêts sont trop élevés. Ils doivent donc trouver une manière d'avoir assez d'argent pour pouvoir utiliser des machines.
+
+>[!Question]- Qui sera le personnage qui aidera grandement les agriculteurs?
+>Alphonse Desjardins
+
+>[!Question]- Que fait-il pour les aider?
+>Il créera la caisse.
+
+>[!Question]- C'est quoi une caisse?
+>C'est une endroit où des personnes peuvent mettre de l'argent ensemble et se partager se montant pour se payer certaines choses.
+
+>[!Question]- Quel est le but principal de la caisse?
+>Minimiser les inégalités sociales
+
+>[!Question]- Que feront les agriculteurs avec les caisses?
+>Ils mettront de l'argent ensemble pour s'acheter une machine et ils se la partageront.
 
 
 # 6- La vie en milieux urbains
 
 ## La santé publique
 
+>[!Question]- Quel est le problème majeur dans le domaine de la santé dans les villes?
+>Le lait et l'eau sont de mauvaise qualité.
+
+>[!Question]- Quelle sera une des grosses conséquences de ce problème?
+>La forte mortalité infantile.
+
+>[!Question]- Quelles seront les solutions mises en place pour résoudre ce problème? (4 solutions)
+>- La construction d'égouts
+>- La construction d'aqueducs
+>- La création d'usines de filtration d'eau
+>- La création de cliniques « Goutte de lait »
+
+>[!Question]- C'est quoi les cliniques « Goutte de lait »?
+>Ce sont des cliniques qui distribuent du lait de bonne qualité.
 
 ## Les infrastructures mises en place dans les villes
 
+>[!Question]- Quelles sont les infrastructures de transport mises en place dans les villes? (2 infrastructures)
+>Les poteaux électriques
+>Les tramways
 
+>[!Question]- Quelle est l'infrastructure de loisir mise en place dans les villes?
+>Les parcs
+
+>[!Question]- Quelle est l'infrastructure d'hygiène mise en place dans les villes?
+>Les douches publiques et les bains publics.
 
 # 7- Le système d'éducation et la formation technique
 
+>[!Question]- Quelle est la différence entre le taux de scolarisation des francophones comparé à celui des anglophones?
+>Les francophones sont moins scolarisés que les anglophones.
 
+>[!Question]- Quelle est la différence entre le taux de scolarisation des garçons comparé à celui des filles?
+>Les garçons sont plus scolarisés que les filles.
 
+>[!Question]- Quelles sont les écoles offertes aux filles?
+>Ce sont des écoles ménagères.
+
+>[!Question]- C'est quoi une école ménagère?
+>C'est une école dans laquelle des filles apprennent à prendre soin de la maison.
+
+>[!Question]- Quel est le but de la création de l'École des hautes études commerciales?
+>Apprendre la population comment gérer de l'argent pour qu'elle sorte de la pauvreté.
 
 ## Les luttes des femmes
+
+>[!Question]- Quelles sont les revendications des femmes au début du 20e siècle? (4 revendications)
+>- Obtenir le droit de vote
+>- Obtenir le statut juridique (ne plus être considéré comme mineure)
+>- Avoir de meilleurs salaires
+>- Avoir accès aux études dans des universités
+
+>[!Question]- Laquelle auront-elles finalement?
+>Elles auront le droit de vote **au fédéral**.
+>>[!Question]- En quelle année?
+>>En 1918
+
+>[!Question]- Pourquoi auront-elles accès au droit de vote plusieurs années plus tard au Québec?
+>Car le Québec est encore sous la forte influence de l'Église et l'Église ne veut pas que les femmes puissent voter.
+
