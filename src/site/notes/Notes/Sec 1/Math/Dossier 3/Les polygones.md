@@ -11,7 +11,7 @@
 >C'est quand aucun sommet rentre dans la forme
 
 >[!question]- C'est quoi un polygone non-convexe?
->C'st il y a au moins un sommet qui rentre dans la forme
+>C'est un polygone dans lequel il y a au moins un sommet qui rentre dans la forme.
 
 >[!question]- C'est quoi un polygone régulier?
 >C'est un polygone dont tous ses côtés et tous ses angles sont congruents

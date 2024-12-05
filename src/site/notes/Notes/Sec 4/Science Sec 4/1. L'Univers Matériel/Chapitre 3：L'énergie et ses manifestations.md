@@ -51,11 +51,11 @@
 
 ## La capacité thermique massique
 
->[!Question]- C'est quoi la formule pour la chaleur?
+>[!Question]- C'est quoi la formule pour la variation d'énergie thermique (chaleur)?
 > $$Q=mc\Delta T$$
 
 >[!Question]- Que veut dire le Q dans cette formule?
-> Chaleur
+> Chaleur ou variation d'énergie thermique
 >>[!Question]- Quelle est l'unité de mesure utilisée pour la chaleur?
 >>La joule: $J$
 
