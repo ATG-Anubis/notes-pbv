@@ -118,7 +118,7 @@
 >[!Question]- Quand est-ce que la deuxième phase d'industrialisation se produit-t-elle?
 >De 1900 à 1930
 
->[!Question]- Quelles sont les causes qui facilitent l'essor l'économie du Canada? (4 causes)
+>[!Question]- Quelles sont les causes qui faciliteront l'essor de l'économie du Canada? (4 causes)
 >- La politique économique de Macdonald est en continuité
 >- L'arrivée de nombreux immigrants qui fournisse une main d'œuvre abondante
 >- On commerce de plus en plus avec l'Angleterre et les États-Unis
