@@ -365,7 +365,13 @@ module.exports = function (eleventyConfig) {
           function (metaInfoMatch, callout, metaData, collapse, title) {
             isCollapsable = Boolean(collapse);
             isCollapsed = collapse === "-";
-            const titleText = title.replace(/<\/?\w+>/g, "")
+            let sanitizedTitle = title;
+            let previousTitle;
+            do {
+              previousTitle = sanitizedTitle;
+              sanitizedTitle = sanitizedTitle.replace(/<\/?\w+>/g, "");
+            } while (sanitizedTitle !== previousTitle);
+            const titleText = sanitizedTitle
               ? title
               : `${callout.charAt(0).toUpperCase()}${callout
                 .substring(1)
