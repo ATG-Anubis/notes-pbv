@@ -92,3 +92,71 @@
 >[!Question]- Que se passe-t-il si Q est négatif?
 >L'énergie thermique a été dégagée et non absorbée.
 
+
+## L'énergie cinétique et l'énergie potentielle
+
+
+>[!Question]- C'est quoi l'énergie cinétique?
+>C'est l'énergie que possède un objet en raison de son mouvement.
+
+>[!Question]- Quelle est la formule pour l'énergie cinétique?
+>$$E_{k}=\frac{mv^2}{2}$$
+>>[!Question]- C'est quoi le $E_{k}$ dans la formule?
+>>C'est l'énergie cinétique en joules
+>
+>>[!Question]- C'est quoi le $m$ dans la formule?
+>>C'est la masse en kilogrammes
+>
+>>[!Question]- C'est quoi le $v$ dans la formule?
+>>C'est la vitesse en mètres par seconde
+
+>[!Question]- Quelle est la formule pour l'énergie cinétique si on cherche la masse?
+>$$m=\frac{2E_{k}}{v^2}$$
+
+>[!Question]- Quelle est la formule pour l'énergie cinétique si on cherche la vitesse?
+>$$v=\sqrt{ \frac{2E_{k}}{m} }$$
+
+>[!Question]- Comment fait-on pour convertir des m/s en Km/h et vice versa?
+>- Si on convertis des m/s en Km/h, on multiplie le nombre par 3,6
+>- Si on convertis des Km/h en m/s, on divise le nombre par 3,6
+
+
+>[!Question]- C'est quoi l'énergie potentielle gravitationnelle?
+>C'est l'énergie de réserve d'un objet.
+
+>[!Question]- Quelle est la formule pour l'énergie potentielle gravitationnelle?
+>$$E_{p}=mgh$$
+>>[!Question]- Que veut dire $E_{p}$?
+>>C'est l'énergie potentielle gravitationnelle en joules
+>
+>>[!Question]- Que veut dire $m$?
+>>C'est la masse en grammes
+>
+>>[!Question]- Que veut dire $g$?
+>>C'est l'intensité du champ gravitationnel en Newton par kilogrammes (N/Kg)
+>
+>>[!Question]- Que veut dire $h$?
+>>C'est la hauteur de l'objet en mètres
+
+>[!Question]- Quelle est la formule pour l'énergie potentielle gravitationnelle si on cherche la masse?
+>$$m=\frac{E_{p}}{gh}$$
+
+>[!Question]- Quelle est la formule pour l'énergie potentielle gravitationnelle si on cherche l'intensité du champ gravitationnel?
+>$$g=\frac{E_{p}}{mh}$$
+
+>[!Question]- Quelle est la formule pour l'énergie potentielle gravitationnelle si on cherche la hauteur de l'objet?
+>$$h=\frac{E_{p}}{mg}$$
+
+>[!Question]- C'est quoi l'intensité du champ gravitationnel de la terre?
+>9,8 N/Kg
+
+
+>[!Question]- C'est quoi l'énergie mécanique?
+>C'est l'énergie potentielle gravitationnelle plus l'énergie cinétique.
+
+>[!Question]- Quelle est la formule pour l'énergie mécanique?
+>$$E_{m}=E_{k}+E_{p}$$
+
+>[!Question]- Que se passe-t-il à l'énergie mécanique s'il n'y a pas d'énergie supplémentaire ou perdue?
+>L'énergie mécanique reste la même.
+
