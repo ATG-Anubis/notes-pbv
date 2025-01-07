@@ -4,7 +4,7 @@
 
 # Math
 
-[[Notes/Sec 1/Math/Dossier 1\|Dossier 1]]
+[[Notes/Sec 1/Math/Dossier 1\|Notes/Sec 1/Math/Dossier 1]]
 
 [[Notes/Sec 1/Math/Dossier 2\|Dossier 2]]
 

@@ -12,7 +12,7 @@ J'ai écrit toutes ces notes à la main et ce site web est un projet qui m'a pri
   
   
   
-Presque toutes les notes en histoire/géo ne sont pas ici, mais sur Quizlet, voici les liens :
+Les notes en histoire/géo de secondaire 1 et 2 ne sont pas ici, mais sur Quizlet. Voici les liens :
   
   
 (Bien sûr, il y en a qui ne sont pas complets, mais ceux du secondaire 1 devraient être les plus complets)
@@ -29,10 +29,7 @@ Histoire 2 : https://quizlet.com/join/6MqVQkRKp?i=3vlaer&x=1rqt
 Culture Religieuse 2 : https://quizlet.com/join/r5FMyCzW7?i=3vlaer&x=1rqt
   
   
-Je publierai les notes d'histoire/géo du secondaire 3 sur ce site web :)
-  
-  
-  
+
   
 Si vous trouvez des notes qui ont X à la fin, ça veut dire qu'elles ne sont pas complètes. Je ne peux pas toujours les compléter par contre.
   
@@ -53,6 +50,6 @@ Pour cette raison, le site se navigue plus facilement en utilisant les liens sur
 
 
 ## Statistiques:
-2 502 questions et réponses
+2 530 questions et réponses
 576 pages
-56 268 mots
+56 690 mots
