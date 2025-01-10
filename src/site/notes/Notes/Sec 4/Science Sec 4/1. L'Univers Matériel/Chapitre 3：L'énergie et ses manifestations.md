@@ -86,7 +86,7 @@
 >[!Question]- Quelle est la capacité thermique massique de l'huile végétale?
 >2.00
 
->[!Question]- Quelle est la relation entre la grandeur du $c$ et la vitesse qu'une substance se réchauffe?
+>[!Question]- Quelle est la relation entre la grandeur du $c$ et la vitesse qu'une substance qui se réchauffe?
 >Plus le $c$ est petit, plus la substance chauffe vite et refroidit vite, car elle a besoin de moins d'énergie pour être chauffée.
 
 >[!Question]- Que se passe-t-il si Q est négatif?
@@ -184,6 +184,8 @@
 >>[!Question]- Que veut dire $g$?
 >>Intensité du champ gravitationnel (N/kg)
 
+
+## La force efficace et le travail
 
 >[!Question]- Quelle est l'unité de mesure pour la force?
 >Le Newton

@@ -19,4 +19,4 @@
 
 [[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.7 Talon économie\|2.7 Talon économie]]
 
-[[Notes/Sec 3/Histoire Sec 3/Module 2a：La naissance de la Nouvelle-France et son évolution/2.8 Évêque 1663+\|2.8 Évêque 1663+]]
+[[2.8 Évêque 1663+\|2.8 Évêque 1663+]]
