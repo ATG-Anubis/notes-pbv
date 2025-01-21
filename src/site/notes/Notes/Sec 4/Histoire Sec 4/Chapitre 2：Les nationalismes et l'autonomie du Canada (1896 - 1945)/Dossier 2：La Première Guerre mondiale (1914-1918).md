@@ -49,6 +49,18 @@
 >>[!Question]- C'est quoi la conscription?
 >>C'est lorsque la population est obligée de se battre pour leur pays
 
+>[!Question]- Quelle sera une réaction des canadiens-français face à la conscription?
+>Ils se fâcheront beaucoup, car ils ne veulent pas se battre avec des soldats qui ne parlent pas leur langue lorsqu'ils se battent pour le Canada.
+>>[!Question]- Que feront-ils pour montrer leur colère?
+>>Ils feront des manifestations
+>>>[!Question]- Comment appelle-t-on cet évènement?
+>>>La Crise de la conscription
+
 >[!Question]- Qu'est-ce que les femmes obtiendront à la fin de la guerre pour leur aide?
 >Elles obtiendront le droit de vote au fédéral.
 
+
+>[!Question]- Que recevra le Canada en récompense pour leurs efforts après la guerre?
+>Le statut de Westminster
+>>[!Question]- Que permet le statut de Westminster?
+>>Il accorde la liberté au Canada de gérer sa politique intérieur et extérieur.

@@ -56,3 +56,29 @@
 >3. Calculer les données
 >4. Produit croisé pour la réponse
 
+
+## Les réactions endothermiques et exothermiques
+
+>[!Question]- C'est quoi une réaction exothermique?
+>C'est une réaction qui dégage de l'énergie
+
+>[!Question]- Comment fait-on pour reconnaître une réaction exothermique?
+>L'énergie produite est placée à côté des produits
+
+
+>[!Question]- C'est quoi une réaction endothermique?
+>C'est une réaction qui absorbe de l'énergie
+
+>[!Question]- Comment fait-on pour reconnaître une réaction endothermique?
+>L'énergie absorbée est placée à côté des réactifs.
+
+
+## Le bilan énergétique
+
+>[!Question]- C'est quoi le bilan énergétique?
+>C'est le calcul de l'énergie liée à une réaction endothermique ou exothermique
+
+>[!Question]- Comment fait-on pour calculer le bilan énergétique?
+>1. Bilan énergétique = Énergie absorbée + Énergie dégagée
+>2. Réponse négative: Exothermique / Réponse positive: Endothermique
+
