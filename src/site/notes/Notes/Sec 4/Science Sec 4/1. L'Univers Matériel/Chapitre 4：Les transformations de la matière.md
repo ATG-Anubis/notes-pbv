@@ -80,5 +80,69 @@
 
 >[!Question]- Comment fait-on pour calculer le bilan énergétique?
 >1. Bilan énergétique = Énergie absorbée + Énergie dégagée
->2. Réponse négative: Exothermique / Réponse positive: Endothermique
+>2. Réponse négative: Exothermique
+>3. Réponse positive: Endothermique
+
+
+# Les sortes de transformations chimiques
+
+>[!Question]- C'est quoi la synthèse?
+>C'est la formation d'un produit à partir de réactifs (substance simple + substance simple → substance complexe)
+
+>[!Question]- C'est quoi la décomposition?
+>C'est l'inverse de la synthèse (substance complexe → substance simple + substance simple)
+
+>[!Question]- C'est quoi la précipitation?
+>C'est la formation d'une substance qui ne se dissout pas dans un mélange.
+>>[!Question]- Comment appelle-t-on cette substance?
+>>Un précipité
+
+>[!Question]- C'est quoi l'oxydation?
+>C'est une forme de synthèse dans laquelle l'oxygène est un des réactifs
+
+>[!Question]- C'est quoi la neutralisation acidobasique?
+>C'est lorsqu'un acide se fait neutraliser par une base et vice-versa (Acide + Base → Sel + Eau)
+
+>[!Question]- C'est quoi la combustion?
+>C'est une forme d'oxydation qui libère beaucoup d'énergie
+
+>[!Question]- C'est quoi la respiration cellulaire?
+>C'est une réaction dans laquelle le glucose et l'oxygène forment de l'énergie (Glucose + O$_{2}$ → Énergie)
+>>[!Question]- C'est quoi la molécule de glucose?
+>>$\text{C}_{6}\text{H}_{12}\text{O}_{6}$
+
+>[!Question]- C'est quoi la photosynthèse?
+>C'est lorsque de l'énergie lumineuse réagit avec des substances pour produire du glucose et de l'oxygène.
+
+
+## La combustion
+
+>[!Question]- C'est quoi le triangle de feu?
+>Ce sont les 3 conditions nécessaires pour faire de la combustion
+>>[!Question]- Quelles sont ces 3 conditions?
+>>- Comburant
+>>- Combustible
+>>- Point d'ignition/Température d'ignition
+>>
+>>>[!Question]- C'est quoi le comburant?
+>>>C'est la substance qui cause la combustion
+>>
+>>>[!Question]- C'est quoi le combustible?
+>>>C'est la substance qui se fait brûler
+>>
+>>>[!Question]- C'est quoi le point d'ignition?
+>>>C'est la température à laquelle le feu commence.
+
+>[!Question]- Quels sont les 3 types de combustion?
+>- Combustion vive
+>- Combustion spontanée
+>- Combustion lente
+>>[!Question]- C'est quoi une combustion vive?
+>>C'est une combustion qui dégage de la chaleur et de la lumière
+>
+>>[!Question]- C'est quoi une combustion spontanée?
+>>C'est une combustion dans laquelle le point d'ignition est le même que la température du milieu
+>
+>>[!Question]- C'est quoi une combustion lente?
+>>C'est une combustion qui se produit lentement
 
