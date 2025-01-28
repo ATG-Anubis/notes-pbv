@@ -35,8 +35,8 @@
 >Le Krach Boursier
 
 >[!Question]- Quelles sont les 2 causes du Krach Boursier?
->1. Les compagnies fabriquent tellement que les entrepôts sont pleins, ils doivent donc mettre à pied des employés, ce qui baisse la valeur des actions.
->2. Plusieurs personnes ne peuvent pas vendre leurs actions et l'argent qu'ils ont emprunté des banques ne revient pas. Ils sont alors endettés et les banques font faillite.
+>1. La surproduction
+>2. L'endettement des actionnaires
 
 ## Les mesures prises par les gouvernements fédéral et provincial et le clergé
 
@@ -68,4 +68,31 @@
 
 
 ## La remise en question des idéologies
+
+>[!Question]- Quelle est la principale conséquence politique de la Grande Dépression?
+>La création de partis politiques extrêmes
+
+
+>[!Question]- Nomme un parti politique fédéral créé durant la Grande Dépression.
+>La CCF
+
+>[!Question]- Quel sera le parti politique provincial le plus populaire?
+>L'Union Nationale
+
+>[!Question]- Qui est le chef de ce parti?
+>Maurice Duplessis
+
+>[!Question]- Quelle loi mettra ce chef en place durant son temps en pouvoir?
+>La loi du cadenas
+>>[!Question]- C'est quoi cette loi?
+>>C'est une loi qui dit que les communistes et ceux qui propagent des idées communistes doivent être arrêtés.
+
+
+>[!Question]- C'est quoi le Clérico-Nationalisme?
+>C'est un mouvement de pensée basé sur le nationalisme canadien-français.
+>>[!Question]- Que souhaite-t-il?
+>>Donner le pouvoir à l'Église et conserver l'identité des canadiens-français
+>
+>>[!Question]- Qui est son principal porte-parole?
+>>Lionel Groulx
 
