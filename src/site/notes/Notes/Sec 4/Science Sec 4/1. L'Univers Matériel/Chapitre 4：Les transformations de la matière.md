@@ -137,6 +137,7 @@
 >- Combustion vive
 >- Combustion spontanée
 >- Combustion lente
+>
 >>[!Question]- C'est quoi une combustion vive?
 >>C'est une combustion qui dégage de la chaleur et de la lumière
 >
@@ -145,4 +146,61 @@
 >
 >>[!Question]- C'est quoi une combustion lente?
 >>C'est une combustion qui se produit lentement
+
+
+# Les transformations nucléaires
+
+>[!Question]- C'est quoi une transformation nucléaire?
+>C'est une réaction qui se produit dans le noyau des atomes.
+
+
+## La stabilité nucléaire
+
+>[!Question]- C'est quoi la stabilité nucléaire?
+>C'est lorsque la force nucléaire (du noyau) est plus grande que la force de répulsion (de séparation) des protons.
+
+>[!Question]- Comment nomme-t-on un atome qui possède une stabilité nucléaire?
+>Un atome stable
+
+>[!Question]- Comment nomme-t-on un atome qui ne possède pas de stabilité nucléaire?
+>Un atome instable
+
+
+>[!Question]- Quels sont les facteurs qui peuvent influencer la stabilité d'un atome?
+>- La taille
+>- Le nombre de neutrons
+>
+
+>[!Question]- Quel est l'autre nom qu'on donne aux atomes instables?
+>Des atomes radioactifs
+
+
+## La radioactivité
+
+>[!Question]- C'est quoi la radioactivité?
+>C'est la transformation d'un atome instable en un ou plusieurs atomes plus stables.
+
+>[!Question]- Que dégagent les atomes radioactifs lors de cette transformation?
+>Des rayons
+>>[!Question]- Quels sont les 3 types de rayons qui peuvent être dégagés?
+>>- Alpha
+>>- Bêta
+>>- Gamma
+>>
+>>>[!Question]- C'est quoi un rayon alpha?
+>>>C'est un rayon positif avec un pouvoir de pénétration faible
+>>
+>>>[!Question]- C'est quoi un rayon bêta?
+>>>C'est un rayon négatif avec un pouvoir de pénétration moyen
+>>
+>>>[!Question]- C'est quoi un rayon gamma?
+>>>C'est un rayon neutre avec un pouvoir de pénétration très fort
+>>
+>
+
+
+### Le temps de demi-vie
+
+>[!Question]- C'est quoi le temps de demi-vie?
+>C'est le temps nécessaire pour que la moitié de l'échantillon d'un élément radioactif se désintègre.
 
