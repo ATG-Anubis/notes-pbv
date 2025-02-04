@@ -9,6 +9,7 @@
 >[!Question]- Quels sont les 2 types de transformation de matière?
 >- Physique
 >- Chimique
+>
 >>[!Question]- C'est quoi une transformation physique?
 >>C'est une transformation dans laquelle la substance garde les mêmes propriétés
 >
@@ -35,7 +36,7 @@
 >>C'est ce qui reste à la fin de la réaction.
 
 >[!Question]- Que se passe-t-il lorsqu'on ajoute ou diminue le nombre de réactifs?
->On recevra le double des produits
+>On recevra plus de produits si on a plus de réactifs et on recevra moins de produits si on a moins de réactifs.
 
 
 ## Le balancement d'équations
@@ -167,7 +168,7 @@
 
 
 >[!Question]- Quels sont les facteurs qui peuvent influencer la stabilité d'un atome?
->- La taille
+>- La taille du noyau
 >- Le nombre de neutrons
 >
 
@@ -203,4 +204,13 @@
 
 >[!Question]- C'est quoi le temps de demi-vie?
 >C'est le temps nécessaire pour que la moitié de l'échantillon d'un élément radioactif se désintègre.
+
+
+## La fusion et la fission nucléaire
+
+>[!Question]- C'est quoi la fusion nucléaire?
+>C'est une réaction dans laquelle deux petits noyaux d'atomes fusionnent et forment un noyau plus lourd.
+
+>[!Question]- C'est quoi la fission nucléaire?
+>C'est une réaction dans laquelle le noyau d'un gros atome se sépare en deux ou plusieurs noyaux d'atomes plus légers.
 

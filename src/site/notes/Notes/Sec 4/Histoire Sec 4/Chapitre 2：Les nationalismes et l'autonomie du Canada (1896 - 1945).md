@@ -9,3 +9,4 @@
 
 [[Notes/Sec 4/Histoire Sec 4/Chapitre 2：Les nationalismes et l'autonomie du Canada (1896 - 1945)/Dossier 3：L'entre-deux-guerres (1920-1939)\|Dossier 3：L'entre-deux-guerres (1920-1939)]]
 
+[[Notes/Sec 4/Histoire Sec 4/Chapitre 2：Les nationalismes et l'autonomie du Canada (1896 - 1945)/Dossier 4：La Deuxième Guerre mondiale (1939-1945)\|Dossier 4：La Deuxième Guerre mondiale (1939-1945)]]
