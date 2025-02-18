@@ -70,3 +70,84 @@
 >[!Question]- Quelle nouvelle base azotée remplace la thymine dans l'ARN?
 >L'uracile (U)
 
+
+  
+>[!Question]- C'est quoi les cariotypes?
+> C'est l'étalement des 46 chromosomes différents d'une personne
+
+>[!Question]- Combiens de types d'acides aminés différents existe-t-il?
+> 20
+
+>[!Question]- Quels sont les 2 types d'ARN?
+>L'ARN messager et l'ARN de transfert
+
+>[!Question]- Quelle est la 1re étape de la synthèse des protéines?
+>Transcription de l'ADN en ARN messager
+
+>[!Question]- Quelle est la 2e étape de la synthèse des protéines?
+>L'ARN s'attache au ribosome sous forme de codons, le ribosome lit l'information et la construction de protéines débute lorsque le ribosome lit le codon AUG.
+>>[!Question]- C'est quoi les codons?
+>> Ce sont des groupes de 3 nucléotides dans l'ARN messager
+
+>[!Question]- Quelle est la 3e étape de la synthèse des protéines?
+>L'ARN messager est traduit en protéine
+
+>[!Question]- Quelle est la 4e étape de la synthèse des protéines?
+>La construction de protéines débute lorsque le ribosome lit le codon UAA, UAG ou UGA
+
+
+## L'hérédité
+
+>[!Question]- C'est quoi l'hérédité?
+>C'est la transmission des caractères des parents à leurs descendants
+
+>[!Question]- C'est quoi des caractères héréditaires?
+>Ce sont des caractères qui peuvent se transmettre d'une génération à une autre
+>Exemples: La couleur des yeux, la couleur des cheveux, la taille et la forme des oreilles ou du nez
+
+
+### Les allèles
+
+>[!Question]- C'est quoi les allèles?
+>Ce sont les variantes d'un caractère
+
+>[!Question]- Quels sont les 2 types d'allèles?
+>Dominant et récessif
+>>[!Question]- C'est quoi les allèles dominantes?
+>>Ce sont les allèles qui ont le plus de chances de se transmettre
+>
+>>[!Question]- C'est quoi les allèles récessives?
+>>Ce sont les allèles qui ont moins de chances de se transmettre
+
+>[!Question]- C'est quoi un homozygote?
+>C'est lorsque la mère et le père ont la même allèle.
+
+>[!Question]- C'est quoi un hétérozygote?
+>C'est lorsque la mère et le père ont des allèles différentes, c'est l'allèle dominant qui est transmit.
+
+
+>[!Question]- C'est quoi le génotype?
+>C'est l'allèle d'un individu pour un ou plusieurs gènes
+
+>[!Question]- Comment écrit-t-on les allèles?
+>Avec la première lettre du mot de l'allèle dominant
+>Une lettre majuscule signifie l'allèle dominant et une lettre minuscule signifie l'allèle récessif
+
+>[!Question]- Comment écrit-t-on les génotypes?
+>Avec les lettres de l'allèle
+
+
+>[!Question]- C'est quoi un phénotype?
+>C'est l'apparence d'un individu causé par son génotype.
+
+
+### La transmission des caractères d'une génération à une autre
+
+>[!Question]- C'est quoi le croisement?
+>C'est l'échance de gamètes entre deux individus
+
+>[!Question]- C'est quoi la loi de la ségrégation des allèles?
+>Lors du croisement, 50% des allèles du père et 50% des allèles de la mère sont utilisés.
+
+>[!Question]- Que ce passe-t-il aux allèles durant le croisement de 2 caractères et plus?
+>Les allèles du premier caractère se séparent et se combinent avec un allèle de l'autre caractère.
