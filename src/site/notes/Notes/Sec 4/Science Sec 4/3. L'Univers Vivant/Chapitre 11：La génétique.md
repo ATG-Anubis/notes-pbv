@@ -151,3 +151,21 @@
 
 >[!Question]- Que ce passe-t-il aux allèles durant le croisement de 2 caractères et plus?
 >Les allèles du premier caractère se séparent et se combinent avec un allèle de l'autre caractère.
+
+
+## Le clonage
+
+>[!Question]- C'est quoi le clonage?
+>C'est la reproduction d'un individu pour avoir des copies exactes
+>
+
+>[!Question]- Quel est le but du clonage reproductif?
+>Avoir des copies identiques d'un individu
+>
+
+>[!Question]- Quel est le but du clonage thérapeutique?
+>Avoir des copies de tissus pour les greffes
+>
+
+>[!Question]- Quel est le but du clonage génique?
+>Avoir des copies d'un gène pour l'étudier
