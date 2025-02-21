@@ -324,11 +324,7 @@
 
     function truncate(str, size) {
         //first, remove HTML
-        let previous;
-        do {
-            previous = str;
-            str = str.replaceAll(/<[^>]*>/g, '');
-        } while (str !== previous);
+        str = sanitizeHtml(str, { allowedTags: [], allowedAttributes: {} });
         if (str.length < size) 
             return str;
         return str.substring(0, size - 3) + '...';
