@@ -324,7 +324,7 @@
 
     function truncate(str, size) {
         //first, remove HTML
-        str = str.replaceAll(/<[^>]*>/g, '');
+        str = sanitizeHtml(str, { allowedTags: [], allowedAttributes: {} });
         if (str.length < size) 
             return str;
         return str.substring(0, size - 3) + '...';
