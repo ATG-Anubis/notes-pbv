@@ -35,3 +35,29 @@
 >- Rejet de résidus dans l'eau et le sol
 >- Utilisation de beaucoup d'eau
 
+
+## Les sols
+
+>[!Question]- C'est quoi des horizons du sol?
+>Ce sont les différentes couches du sol
+
+>[!Question]- C'est quoi la couche superficielle?
+>C'est le dessus du sol, il est composé d'humus
+>>[!Question]- C'est quoi de l'humus?
+>>C'est des déchets végétaux et des animaux en décomposition
+
+>[!Question]- De quoi est fait la terre arable?
+>C'est un mélange d'humus et de minéraux
+
+>[!Question]- De quoi est fait le sous-sol?
+>Il est fait de petites particules minérales
+
+>[!Question]- De quoi est faite la roche mère fragmentée?
+>Elle est faite de dégradation de la roche mère d'en dessous
+
+>[!Question]- C'est quoi la roche mère non altérée?
+>C'est une roche qui forme le sol
+
+
+### Les conditions nécessaires pour des sols fertiles
+
