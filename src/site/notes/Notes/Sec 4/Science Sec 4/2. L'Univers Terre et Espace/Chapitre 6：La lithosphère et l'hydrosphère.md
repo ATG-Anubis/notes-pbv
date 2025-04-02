@@ -61,3 +61,51 @@
 
 ### Les conditions nécessaires pour des sols fertiles
 
+>[!Question]- Pourquoi les sols ont-ils besoin d'une bonne quantité et variété de minéraux?
+>Car les minéraux sont des nutriments pour les plantes.
+
+>[!Question]- Pourquoi les sols ont-ils besoin d'un taux d'humidité adéquat?
+>Car différentes plantes ont différents besoins d'eau. Ce n'est pas pareil pour toutes les plantes
+
+>[!Question]- Pourquoi les sols ont-ils besoin d'un pH approprié?
+>Un sol trop acide ou trop basique diminue l'efficacité du transfert des minéraux vers les racines.
+
+>[!Question]- Pourquoi les sols ont-ils besoin d'une présence d'air?
+>L'oxygène permet à certaines plantes de mieux fonctionner.
+
+
+### La capacité tampon
+
+>[!Question]- C'est quoi la capacité tampon?
+>C'est la capacité d'un sol de résister aux changements de pH
+
+>[!Question]- Quelles sont les caractéristiques d'un sol avec une bonne capacité tampon? (2 caractéristiques)
+>Un sol à texture fine qui contient de la matière organique
+
+
+### Le pergélisol
+
+>[!Question]- C'est quoi un pergélisol?
+>C'est un sol gelé en permanence
+
+>[!Question]- Quel est le critère qu'un sol doit passer pour être considéré comme un pergélisol?
+>Le sol doit maintenir une température de 0 °C ou moins pendant au moins 2 ans.
+
+>[!Question]- Comment appelle-t-on du pergélisol qui dégèle en été?
+>Du mollisol
+
+>[!Question]- Pourquoi voit-on de plus en plus de dégel du pergélisol?
+>Car la planète se réchauffe
+
+
+#### Les conséquences du dégel du pergélisol
+
+>[!Question]- Quelle est la conséquence du sol qui devient plus mou et instable suite à l'eau qui se libère du pergélisol?
+>Le terrain devient instable
+
+>[!Question]- Quelle est la conséquence des micro-organismes qui s'activent et peuvent maintenant décomposer la matière organique?
+>La production de gaz à effet de serre
+
+>[!Question]- Quelle est la conséquence de l'eau et des nutriments pour les plantes qui commence à devenir plus accessible?
+>Les plantes grandissent plus vite
+
