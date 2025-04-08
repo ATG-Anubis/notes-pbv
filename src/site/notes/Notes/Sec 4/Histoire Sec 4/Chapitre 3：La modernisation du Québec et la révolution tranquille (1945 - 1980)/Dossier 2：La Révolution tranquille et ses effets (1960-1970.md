@@ -151,3 +151,15 @@
 >[!Question]- Que veulent-ils? (les partis politiques et le groupe terroriste)
 >L'indépendance du Québec
 
+
+## Le rôle de l'État dans les arts et la culture
+
+>[!Question]- Quel est le but du néonationalisme?
+>Montrer au monde la culture et l'économie du Québec
+
+>[!Question]- Que fera le Québec pour se rapprocher de ce but?
+>Il organisera l'expo 67
+
+>[!Question]- Quel sera un grand changement au Québec au niveau du théâtre?
+>On commencera à utiliser du langage québécois appelé le "Joual"
+

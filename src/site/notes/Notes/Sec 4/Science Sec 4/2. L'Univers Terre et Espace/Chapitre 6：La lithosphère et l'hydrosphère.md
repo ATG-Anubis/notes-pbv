@@ -35,6 +35,8 @@
 >- Rejet de résidus dans l'eau et le sol
 >- Utilisation de beaucoup d'eau
 
+>[!Question]- Comment appelle-t-on le liquide violet rejeté lors du traitement des minerais?
+>Le méthyle de mercure
 
 ## Les sols
 
@@ -108,4 +110,125 @@
 
 >[!Question]- Quelle est la conséquence de l'eau et des nutriments pour les plantes qui commence à devenir plus accessible?
 >Les plantes grandissent plus vite
+
+
+
+### Les ressources énergétiques de la lithosphère
+
+>[!Question]- Quel est l'avantage des combustibles fossiles?
+>C'est peu coûteux
+
+>[!Question]- Quel est le désavantage des combustibles fossiles?
+>C'est non renouvelable et polluant
+
+
+>[!Question]- Quel est l'avantage de l'uranium?
+>Ça produit beaucoup d'énergie et ça ne pollue pas beaucoup
+
+>[!Question]- Quel est le désavantage de l'uranium?
+>C'est non renouvelable
+
+
+>[!Question]- Quels sont les produits chimiques dégagés qui causent les pluies acides?
+>$SO_{2}$ et $NO_{x}$
+
+
+## Les eaux douces et les eaux salées
+
+>[!Question]- Quel pourcentage de l'hydrosphère contient l'eau douce?
+>2,5%
+
+>[!Question]- Quel pourcentage de l'hydrosphère contient l'eau salée?
+>97,5%
+
+>[!Question]- Quel pourcentage de l'eau douce est sous forme solide?
+>79%
+
+>[!Question]- Quel pourcentage de l'eau douce est sous forme liquide?
+>21%
+
+
+### Les bassins versants
+
+>[!Question]- C'est quoi un bassin versant?
+>C'est un territoire qui recueille des eaux pour les concentrer vers un point.
+
+>[!Question]- C'est quoi un amont?
+>C'est l'endroit d'où vient un cours d'eau
+
+>[!Question]- C'est quoi un aval?
+>C'est l'endroit où s'écoule un cours d'eau
+
+
+>[!Question]- Quels sont les 5 facteurs qui influent sur la circulation de l'eau dans un bassin versant?
+>- La topographie (forme, pente et relief du terrain)
+>- La géologie (structure des roches)
+>- Le climat
+>- La végétation
+>- Les aménagements humains
+
+
+### La circulation océanique
+
+>[!Question]- C'est quoi la circulation océanique?
+>C'est l'ensemble des courants marins dans les océans
+
+>[!Question]- C'est quoi la salinité?
+>C'est la quantité de sels dissous dans l'eau
+
+>[!Question]- Quelle la propriété de l'eau que la salinité influence?
+>La masse volumique
+
+>[!Question]- Quel est l'impact d'une salinité faible sur l'eau?
+>La masse volumique diminue
+
+>[!Question]- Quel est l'impact d'une salinité élevée sur l'eau?
+>La masse volumique augmente
+
+>[!Question]- Quelle est la température à laquelle la masse volumique de l'eau est la plus élevée?
+>4°C
+
+
+>[!Question]- Quels sont les 3 facteurs qui influencent la température des océans?
+>- La profondeur
+>- Les saisons
+>- La latitude
+
+>[!Question]- Quels sont les 3 facteurs qui influencent la salinité des océans?
+>La fonte des glaciers
+>La vitesse d'évaporation de l'eau
+>La quantité de précipitations
+
+
+### Les courants marins
+
+>[!Question]- Comment appelle-t-on de l'eau qui est à la fois salée et douce?
+>De l'eau saumâtre
+
+
+>[!Question]- Quel est le processus de la création des courants marins de profondeur?
+>L'eau se rend aux pôles, elle absorbe le sel de la glace et s'enfonce car sa masse volumique augmente.
+
+>[!Question]- C'est quoi la thermocline?
+>C'est une zone où la température de l'eau change subitement
+>>[!Question]- Où se situe cette zone?
+>>Entre les eaux superficielles et les eaux profondes
+
+>[!Question]- Qu'est-ce qui influence les courants marins de surface?
+>Le sens des vents et le sens de la rotation de la Terre
+
+>[!Question]- C'est quoi la boucle de circulation thermohaline?
+>C'est l'ensemble des courants marins.
+
+>[!Question]- Quelle est la différence entre les banquises et les glaciers?
+>Les banquises sont salées, tandis que les glaciers ne le sont pas
+
+
+>[!Question]- Quels sont les impacts de la fonte des glaciers et des banquises? (4 impacts)
+>- Changement de la salinité de l'eau
+>- Augmentation du niveau des océans
+>- Diminution de l'effet albédo
+>- Déplacement ou disparition d'espèces
+>>[!Question]- C'est quoi l'effet albédo?
+>>C'est lorsque la neige et la glace réfléchissent une partie des rayons solaires vers l'espace
 
