@@ -152,14 +152,45 @@
 >L'indépendance du Québec
 
 
-## Le rôle de l'État dans les arts et la culture
+## Affirmation culturelle québécoise
 
->[!Question]- Quel est le but du néonationalisme?
->Montrer au monde la culture et l'économie du Québec
-
->[!Question]- Que fera le Québec pour se rapprocher de ce but?
->Il organisera l'expo 67
+>[!Question]- Quelle nouvelle branche de gouvernement sera créée en rapport avec la culture québécoise?
+>Le ministère des Affaires culturelles
+>>[!Question]- Quand sera-t-il créé?
+>>En 1961
 
 >[!Question]- Quel sera un grand changement au Québec au niveau du théâtre?
 >On commencera à utiliser du langage québécois appelé le "Joual"
+
+>[!Question]- Qui sera un musicien qui gagnera rapidement de la popularité?
+>Félix Leclerc
+
+
+>[!Question]- Quel est l'impact du néonationalisme sur l'identité des citoyens du Québec?
+>On commence à se définir comme des Québécois
+>>[!Question]- Que feront les Québécois pour se distancer culturellement des Canadiens?
+>>Ils abandonneront certaines valeurs des canadien-français (la religion, la vie rurale)
+
+>[!Question]- Quel est le but du néonationalisme?
+>Montrer au monde la culture du Québec
+>
+>>[!Question]- Quelle sera une action effectuée par le gouvernement du Québec pour se rapprocher de ce but?
+>>Il organisera l'expo 67
+
+
+>[!Question]- Quelle sera une conséquence politique du néonationalisme?
+>La création des premiers partis politiques qui veulent l'indépendance du Québec
+>>[!Question]- Nomme les deux partis les plus populaires qui pensent comme cela.
+>>- Le RIN
+>>- Le RN
+
+
+>[!Question]- Quelles seront les conséquences du rapport créé par la commission Laurendeau-Dunton? (3 conséquences)
+>- Adoption de la politique bilingue
+>- Amélioration de l'enseignement du français
+>- Le Nouveau-Brunswick devient officiellement bilingue
+
+
+>[!Question]- Que ce passera-t-il en lien avec Charles de Gaulle lors de l'expo 67?
+>Il fera un discours dans lequel il dit "Vive le Québec libre". Cela créera des tensions entre les anglophones et les francophones dans le Canada.
 

@@ -221,7 +221,7 @@
 >C'est l'ensemble des courants marins.
 
 >[!Question]- Quelle est la différence entre les banquises et les glaciers?
->Les banquises sont salées, tandis que les glaciers ne le sont pas
+>Les glaciers sont formés sur la terre ferme, alors que les banquises flottent sur l'eau.
 
 
 >[!Question]- Quels sont les impacts de la fonte des glaciers et des banquises? (4 impacts)
@@ -231,4 +231,57 @@
 >- Déplacement ou disparition d'espèces
 >>[!Question]- C'est quoi l'effet albédo?
 >>C'est lorsque la neige et la glace réfléchissent une partie des rayons solaires vers l'espace
+
+
+
+## Les ressources naturelles de l'hydrosphère
+
+>[!Question]- Quelle est l'énergie exploitée de l'hydrosphère?
+>L'énergie hydraulique
+
+
+>[!Question]- Quelles sont les 3 ressources de l'hydrosphère utilisées pour avoir de l'hydroélectricité?
+>- Les courants forts dans une conduite forcée
+>- Les courants marins
+>- Les vagues
+>
+>>[!Question]- Où est-ce que les courants forts dans une conduite forcée sont utilisés?
+>>Dans les centrales hydroélectriques
+>
+>>[!Question]- Où est-ce que les courants marins sont utilisés?
+>>Dans les hydroliennes
+>
+>>[!Question]- Où est-ce que les vagues sont utilisées?
+>>Dans les bouées
+
+
+### Les barrages hydroélectriques
+
+>[!Question]- Quel est le processus de transformation de l'eau en électricité dans les barrages hydroélectriques?
+>L'eau passe par la conduite forcée de l'eau et fait tourner une turbine. La turbine tourne l'alternateur qui génère de l'électricité.
+
+
+### La pollution et la dégradation de l'hydrosphère
+
+>[!Question]- D'où provient le $H_{2}SO_{4}$ et le $HNO_{3}$ et quels dommages causent-ils?
+>- Ils proviennent des pluies acides. Ils acidifient l'eau.
+
+>[!Question]- D'où proviennent les hydrocarbures et quels dommages causent-ils?
+>Ils proviennent de l'exploitation du pétrole. Ils peuvent empoisonner l'écosystème et noircir les eaux.
+
+>[!Question]- D'où proviennent les eaux chaudes et les métaux lourds et quels dommages causent-ils?
+>Ce sont des rejets industriels. Ils causent de l'accumulation de métaux lourds et une diminution d'oxygène dans l'eau.
+
+>[!Question]- D'où proviennent les phosphates et les nitrates et quels dommages causent-ils?
+>Ils proviennent de l'engrais et des savons. Ils causent de l'eutrophisation
+
+>[!Question]- C'est quoi l'eutrophisation?
+>C'est un processus qui résulte en une diminution de la concentration de l'oxygène dans l'eau.
+
+>[!Question]- Quelles sont les étapes de l'eutrophisation? (5 étapes)
+>1. La concentration de phosphates et de nitrates augmente
+>2. Les algues ont donc plus de nutriments, donc il y a plus d'algues
+>3. La quantité d'algues qui meurt augmente
+>4. Les micro organismes qui mangent des algues mortes consomment plus et absorbent plus d'oxygène.
+>5. La quantité d'oxygène dans l'eau diminue
 
